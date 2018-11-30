@@ -1,0 +1,32 @@
+====
+Migration 17.1
+luggage: 22.87, chris: 11.77, bus: 8.32, elevator: 8.32, illusion: 8.32, computers: 7.85, light: 6.87, sponsors: 6.24, treat: 6.24, knotted: 6.24, 
+
+====
+Migration 17.2
+sky: 12.48, carrying: 12.48, machinery: 12.48, telekinesis: 12.48, bubble: 12.48, light: 10.79, forcefield: 10.4, fragments: 10.4, scion: 9.7, halo: 9.7, 
+
+====
+Migration 17.3
+cage: 12.48, bird: 8.83, guns: 6.93, basement: 6.24, scared: 5.88, chunks: 5.55, hiding: 5.55, bags: 5.55, jess: 4.94, enemies: 4.9, 
+
+====
+Migration 17.4
+gwerrus: 68.62, egesa: 49.91, matryoshka: 37.43, scythe: 18.71, armsmaster: 16.64, spear: 15.25, egesas: 12.48, ribbons: 10.4, fold: 8.32, armored: 8.32, 
+
+====
+Migration 17.5
+suitcase: 8.32, blah: 8.32, starts: 8.32, papers: 7.85, none: 6.24, sees: 6.24, cerebral: 6.24, palsy: 6.24, jess: 5.88, fix: 5.55, 
+
+====
+Migration 17.6
+mixture: 27.03, car: 20.79, garage: 16.64, c: 16.64, financial: 14.56, drawer: 11.09, keys: 11.09, treated: 10.4, canister: 9.81, processing: 8.83, 
+
+====
+Migration 17.7
+officer: 20.79, lantern: 14.56, uniformed: 10.4, rain: 10.4, swap: 9.7, staff: 9.7, fizzing: 8.32, anomaly: 8.32, cigarette: 8.32, gun: 7.62, 
+
+====
+Migration 17.8
+trickster: 141.4, accord: 79.02, perdition: 37.43, sundancer: 20.79, phone: 18.71, cigarette: 16.64, meeting: 11.09, accords: 10.4, costumes: 10.4, ballistic: 10.4, 
+

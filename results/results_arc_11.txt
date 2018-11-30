@@ -1,0 +1,64 @@
+====
+Infestation 11.1
+terrariums: 22.18, dinah: 15.07, beach: 14.56, coils: 11.63, boardwalk: 11.09, dad: 10.79, glasses: 10.04, coil: 9.4, pet: 8.32, nightmare: 8.32, 
+
+====
+Infestation 11.2
+bugs: 29.42, swarm: 26.78, truck: 26.34, crowd: 24.52, rear: 16.64, boxes: 15.07, ladybugs: 13.86, supplies: 13.73, coils: 11.63, buzzing: 11.09, 
+
+====
+Infestation 11.3
+swarm: 40.18, tea: 30.5, bugs: 24.52, matches: 16.64, attacking: 11.72, sierra: 11.72, gasoline: 11.09, beetles: 11.09, uncle: 10.4, match: 10.04, 
+
+====
+Infestation 11.4
+marker: 22.18, lisa: 21.49, tattletales: 13.86, senegal: 12.79, brooks: 12.79, desk: 11.72, escorts: 11.09, minor: 8.83, vest: 8.32, map: 6.93, 
+
+====
+Infestation 11.5
+lisa: 22.32, crowd: 21.58, minor: 18.64, skidmark: 15.07, brooks: 13.96, pills: 13.86, senegal: 12.79, mall: 11.77, locker: 11.09, canister: 11.09, 
+
+====
+Infestation 11.6
+skidmark: 26.78, ring: 23.44, doug: 16.64, lisa: 16.53, charlotte: 15.07, skidmarks: 13.39, bryce: 12.79, flash: 12.48, fighters: 11.09, rick: 11.09, 
+
+====
+Infestation 11.7
+client: 47.13, papers: 36.04, labyrinth: 33.27, trainwreck: 31.81, skidmark: 26.78, newter: 25.11, clients: 24.95, gregor: 22.87, maze: 20.79, labyrinths: 19.41, 
+
+====
+Infestation 11.8
+sierra: 40.18, charlotte: 31.81, lisa: 24.8, bryce: 17.45, dr: 11.09, q: 11.09, brother: 9.31, doctor: 8.32, cooler: 8.32, believe: 8.32, 
+
+====
+Interlude 11a
+dogs: 114.37, bitch: 93.74, angelica: 49.91, foster: 47.13, lucy: 38.82, bentley: 36.04, siberian: 29.11, dog: 25.63, bentleys: 22.18, howl: 19.41, 
+
+====
+Interlude 11b (Anniversary Bonus)
+theo: 155.26, jack: 58.22, aster: 49.91, sir: 41.59, kayden: 36.04, theos: 19.41, baby: 11.63, asters: 11.09, bathroom: 11.09, purity: 11.09, 
+
+====
+Interlude 11c (Anniversary Bonus)
+elle: 105.36, burnscar: 82.02, shamrock: 37.43, spitfire: 33.27, gregor: 27.03, faultline: 23.44, statue: 22.87, flames: 20.79, palanquin: 19.41, fireball: 19.41, 
+
+====
+Interlude 11d
+colin: 124.77, mannequin: 56.92, mannequins: 33.27, dragon: 16.64, vent: 13.86, blade: 13.86, dragons: 13.86, colins: 13.86, chain: 12.48, clink: 11.09, 
+
+====
+Interlude 11e (Anniversary Bonus)
+hookwolf: 80.41, menja: 61.0, cricket: 44.36, glass: 37.27, stormtiger: 30.5, bradley: 30.5, shatterbird: 20.09, othala: 19.41, shards: 16.64, recruits: 13.86, 
+
+====
+Interlude 11f (Anniversary Bonus)
+trickster: 56.14, sundancer: 41.59, noelle: 36.04, pet: 35.35, candy: 33.27, dinah: 30.13, percent: 27.03, vault: 22.18, coil: 18.8, scenes: 16.64, 
+
+====
+Interlude 11g (Anniversary Bonus)
+alec: 24.95, cherie: 22.18, jeep: 19.41, daddy: 16.64, music: 15.25, love: 15.12, earbuds: 11.09, emotions: 10.47, jacket: 10.4, emotional: 8.37, 
+
+====
+Interlude 11h
+amy: 268.94, victoria: 85.95, bonesaw: 71.98, carol: 58.22, rat: 41.59, marquis: 38.82, mark: 31.41, pagoda: 30.5, hack: 28.46, couch: 27.73, 
+

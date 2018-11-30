@@ -1,0 +1,44 @@
+====
+Hive 5.1
+table: 14.98, skidmark: 13.64, booth: 10.23, chair: 9.09, purity: 8.52, coil: 7.88, bakuda: 7.8, grue: 7.27, forces: 7.19, military: 6.82, 
+
+====
+Hive 5.2
+hookwolf: 18.75, grue: 10.91, buckle: 7.19, apology: 7.19, table: 7.1, pub: 6.82, coil: 5.52, trickster: 5.2, belt: 5.11, issue: 5.11, 
+
+====
+Hive 5.3
+dad: 26.3, stalker: 23.87, emma: 23.39, shadow: 19.49, alan: 17.05, crowd: 13.64, battery: 11.99, wards: 9.59, shopping: 6.82, mall: 6.82, 
+
+====
+Hive 5.4
+principal: 45.56, dad: 39.45, alan: 25.57, mr: 21.58, sophia: 19.18, emails: 16.79, school: 16.56, daughter: 15.34, madison: 14.39, gladly: 14.39, 
+
+====
+Hive 5.5
+van: 14.39, lighthouse: 11.99, bridge: 9.59, shapeshifter: 7.19, rubble: 7.19, armor: 7.08, hostage: 4.8, alarm: 4.8, pantyhose: 4.8, lights: 4.8, 
+
+====
+Hive 5.6
+building: 10.25, bugs: 9.04, newter: 6.69, drama: 5.11, group: 4.85, lonely: 4.8, chose: 4.8, alleyway: 4.8, baseball: 4.8, patrol: 4.8, 
+
+====
+Hive 5.7
+oni: 18.13, lees: 14.39, exploded: 14.39, cloud: 13.64, lee: 13.4, appeared: 11.69, ash: 9.59, rifle: 8.52, sniper: 8.52, brutus: 7.27, 
+
+====
+Hive 5.8
+gloves: 12.99, tape: 11.99, sundancer: 11.83, sheet: 10.23, aid: 9.59, bandages: 9.59, dry: 7.19, classmates: 7.19, purses: 7.19, receipts: 7.19, 
+
+====
+Hive 5.9
+lung: 52.83, asphalt: 16.79, sundancer: 14.98, ceiling: 11.93, knife: 11.69, blades: 11.13, toward: 10.39, spear: 10.23, flame: 10.23, light: 10.12, 
+
+====
+Hive 5.10
+manhole: 14.39, sarcastic: 11.99, beach: 9.59, bags: 9.09, bag: 8.52, loft: 8.52, thinking: 7.8, whitemore: 7.19, sunset: 7.19, drugged: 7.19, 
+
+====
+Interlude 5
+gregor: 68.19, laura: 19.18, am: 19.18, sandwich: 16.79, rods: 16.79, bag: 13.64, doorman: 11.99, mary: 11.99, manton: 11.99, tattoo: 11.99, 
+

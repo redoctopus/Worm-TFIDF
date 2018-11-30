@@ -1,0 +1,24 @@
+====
+Teneral e.1
+therapist: 39.42, ciara: 37.63, yamada: 23.29, valkyrie: 15.25, riley: 14.33, shadows: 14.28, session: 12.54, faerie: 12.54, chevalier: 12.08, ms: 10.99, 
+
+====
+Teneral e.2
+nero: 100.34, imp: 58.92, samuel: 43.0, lucan: 32.25, juliette: 28.67, prisoners: 26.88, flor: 26.88, desk: 25.08, hooligan: 25.08, blond: 25.08, 
+
+====
+Teneral e.3
+dragon: 75.8, pandora: 53.75, colin: 46.59, terminal: 25.08, systems: 25.08, ai: 19.71, pendragon: 17.92, encryption: 16.13, melusine: 16.13, access: 13.17, 
+
+====
+Teneral e.4
+rachel: 96.68, ooze: 51.96, cassie: 48.38, biter: 46.59, dogs: 26.88, militia: 25.27, bastard: 18.25, vista: 14.33, fries: 12.54, claws: 12.54, 
+
+====
+Teneral e.5
+ingenue: 68.09, viking: 37.63, lung: 32.25, teacher: 30.82, marquis: 28.67, satyr: 23.29, dt: 17.92, suits: 16.13, officer: 14.33, students: 14.33, 
+
+====
+Interlude: End
+tattletale: 42.28, annette: 34.04, imp: 30.5, taylor: 22.87, teenager: 21.97, rachel: 21.97, parian: 19.71, foil: 19.71, wine: 14.33, forrest: 12.54, 
+

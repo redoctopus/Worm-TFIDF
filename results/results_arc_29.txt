@@ -1,0 +1,40 @@
+====
+Venom 29.1
+tecton: 36.84, grace: 34.54, romp: 16.09, foil: 15.65, portal: 13.17, wings: 12.88, laps: 11.51, knave: 11.27, simurgh: 11.0, vista: 10.84, 
+
+====
+Venom 29.2
+gavel: 55.26, king: 28.97, beam: 27.36, cups: 27.36, queen: 24.14, crane: 23.03, swords: 22.53, kid: 19.26, hammer: 16.86, dirt: 16.12, 
+
+====
+Venom 29.3
+legend: 57.56, dragon: 19.26, saint: 16.12, leonine: 16.12, spur: 13.74, blanket: 11.51, defiant: 9.7, masamune: 9.21, torture: 9.21, ew: 9.21, 
+
+====
+Venom 29.4
+cells: 21.67, stalker: 11.78, custodian: 9.16, shadow: 8.68, camera: 8.43, cell: 7.33, excitement: 6.91, continuing: 6.91, hall: 6.91, booklets: 6.91, 
+
+====
+Venom 29.5
+thread: 20.72, hostage: 13.82, spheres: 11.27, cell: 11.0, cells: 10.84, threads: 9.63, bolts: 9.21, comm: 9.21, crowd: 8.56, silk: 8.05, 
+
+====
+Venom 29.6
+satyr: 33.71, leonid: 18.06, secondary: 16.12, stalker: 11.78, floret: 10.4, shadow: 9.19, blowout: 8.43, vegas: 8.25, upstairs: 7.22, bud: 6.91, 
+
+====
+Venom 29.7
+siberian: 30.58, manton: 28.97, vial: 24.14, sveta: 20.16, tunnel: 18.42, vials: 16.64, agent: 13.82, foreign: 9.66, boys: 9.63, alexandrias: 9.21, 
+
+====
+Venom 29.8
+rubble: 18.42, sveta: 12.83, ceiling: 12.48, siberian: 11.27, collapse: 9.66, counterpart: 9.21, garden: 8.05, alexandria: 6.93, severing: 6.91, creaking: 6.91, 
+
+====
+Venom 29.9
+bonesaw: 28.97, panacea: 28.9, marquis: 17.7, doormakers: 11.51, platform: 8.05, stump: 8.05, alexandria: 7.62, camera: 7.22, leviathan: 6.93, download: 6.91, 
+
+====
+Interlude 29
+fortuna: 62.17, entity: 41.59, shards: 38.63, fog: 37.02, partisan: 32.24, warrior: 29.93, godling: 27.63, arsenal: 25.33, uncle: 25.33, steps: 15.65, 
+

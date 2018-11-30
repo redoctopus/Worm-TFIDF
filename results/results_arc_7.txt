@@ -1,0 +1,52 @@
+====
+Buzz 7.1
+alec: 15.46, heartbreaker: 9.36, dad: 8.8, lisa: 8.67, learning: 7.69, vote: 7.69, victims: 7.69, brothers: 7.69, couch: 7.64, brian: 6.56, 
+
+====
+Buzz 7.2
+sirius: 33.69, chain: 16.13, lab: 11.23, cement: 7.69, collar: 7.69, worms: 7.69, rollo: 7.69, fuckers: 7.33, angelica: 6.81, pallet: 5.62, 
+
+====
+Buzz 7.3
+tom: 33.34, ball: 13.1, bottle: 11.23, bottles: 10.26, bitchs: 8.6, playing: 7.69, identified: 7.69, heil: 7.69, sirius: 7.49, field: 5.89, 
+
+====
+Buzz 7.4
+anders: 20.59, actually: 10.26, laptop: 10.26, alec: 8.51, email: 7.73, zip: 7.69, medhall: 7.69, richard: 7.69, max: 7.49, kaiser: 6.96, 
+
+====
+Buzz 7.5
+bus: 22.46, sophia: 9.36, staying: 7.49, shower: 7.49, apartment: 7.33, lisa: 6.81, brian: 5.77, alecs: 5.62, clothing: 5.62, transportation: 5.13, 
+
+====
+Buzz 7.6
+sophia: 29.95, store: 23.08, books: 20.59, book: 17.95, bus: 13.1, bookstore: 12.82, counter: 10.26, cheek: 10.26, fantasy: 7.69, shelves: 7.69, 
+
+====
+Buzz 7.7
+camera: 22.46, cameraman: 12.82, ambulance: 10.26, vehicle: 10.26, gurney: 10.26, hookwolf: 9.43, purity: 8.05, speaker: 7.69, tiger: 7.69, blades: 7.49, 
+
+====
+Buzz 7.8
+cricket: 31.82, hookwolf: 27.11, stormtiger: 24.93, radar: 15.39, grue: 15.08, scythe: 12.82, scythes: 12.82, ambulance: 11.73, buried: 10.26, gun: 9.56, 
+
+====
+Buzz 7.9
+rooftop: 23.08, debris: 23.08, roof: 15.39, rune: 13.1, alley: 9.36, angelica: 9.29, tattletale: 8.67, rubble: 7.69, drifted: 7.69, runes: 7.69, 
+
+====
+Buzz 7.10
+cloak: 25.65, smoke: 16.85, tattletale: 13.62, alley: 13.1, grenade: 11.23, purity: 10.52, night: 9.93, canister: 9.36, baton: 8.8, judas: 7.73, 
+
+====
+Buzz 7.11
+candy: 20.52, walkway: 17.95, coil: 16.51, percent: 13.1, tattletale: 11.76, travelers: 11.23, soldier: 10.61, numbers: 10.51, forty: 10.26, zero: 9.36, 
+
+====
+Buzz 7.12
+dinah: 9.36, character: 7.69, coil: 6.31, tattletale: 6.19, siren: 5.62, kidnapping: 5.13, uncles: 5.13, campaign: 5.13, wary: 5.13, particularly: 5.13, 
+
+====
+Interlude 7
+hannah: 53.86, colin: 38.47, dragon: 33.34, hana: 30.78, children: 25.65, village: 25.65, fighters: 20.59, kovan: 17.95, piggot: 17.95, trees: 15.39, 
+

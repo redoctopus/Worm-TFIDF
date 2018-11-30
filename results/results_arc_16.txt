@@ -1,0 +1,64 @@
+====
+Monarch 16.1
+drones: 16.64, grue: 11.75, timing: 11.09, beer: 8.32, pallet: 8.32, drone: 8.32, electrical: 8.32, comply: 8.32, darkness: 8.06, tattletale: 7.05, 
+
+====
+Monarch 16.2
+wheel: 22.18, militia: 22.18, miss: 18.71, grue: 17.86, trickster: 17.84, assault: 15.25, rooftop: 12.48, plywood: 11.09, officers: 11.09, sundancers: 11.09, 
+
+====
+Interlude 16 (Donation Bonus)
+evan: 52.68, rinke: 44.36, lady: 41.59, holler: 41.59, tieu: 38.82, squad: 34.33, creatures: 24.95, radio: 21.76, rain: 18.71, coldiron: 16.64, 
+
+====
+Monarch 16.3
+torture: 19.41, tattletale: 18.33, sock: 13.86, director: 13.63, grue: 11.75, cawthorne: 11.09, regent: 9.87, trickster: 9.78, hostage: 9.7, directors: 8.37, 
+
+====
+Monarch 16.4
+biter: 29.11, barker: 27.03, suit: 21.73, train: 18.71, bentley: 12.75, dogs: 11.63, post: 11.09, glass: 10.4, vet: 10.4, bitch: 10.34, 
+
+====
+Monarch 16.5
+azazel: 48.52, drone: 19.41, drones: 16.64, branches: 16.64, bentley: 12.75, armsmaster: 11.72, resembled: 11.09, hedge: 11.09, disintegration: 11.09, hedges: 11.09, 
+
+====
+Monarch 16.6
+sierra: 16.74, grue: 12.69, charlotte: 11.09, imp: 9.78, brian: 8.37, party: 8.32, celebrate: 8.32, rub: 8.32, plate: 8.32, intimidating: 8.32, 
+
+====
+Interlude 16 (Donation Bonus #2)
+hookwolf: 31.19, sheriff: 27.73, code: 25.59, colin: 22.18, defiant: 19.41, spear: 16.64, data: 15.25, files: 12.48, jack: 11.09, damsel: 11.09, 
+
+====
+Monarch 16.7
+kurt: 40.18, lacey: 26.78, beer: 16.64, dad: 15.04, breakfast: 13.86, shower: 12.48, taylor: 10.04, alexander: 10.04, candidates: 10.04, construction: 8.37, 
+
+====
+Monarch 16.8
+mayor: 18.64, weld: 18.41, circus: 18.02, aisle: 16.64, grove: 15.07, vista: 14.56, auditorium: 13.39, stage: 11.09, niece: 11.09, mr: 10.4, 
+
+====
+Monarch 16.9
+paramedic: 22.18, wounded: 11.72, commander: 11.09, explosion: 9.7, dad: 9.4, candidates: 8.37, injuries: 8.37, coordination: 8.32, othala: 8.32, reporters: 6.98, 
+
+====
+Monarch 16.10
+calvert: 13.73, mrs: 12.48, circus: 11.09, padillo: 10.04, trickster: 9.78, atlas: 9.7, tattletale: 8.93, grue: 8.46, semi: 8.32, invitation: 8.32, 
+
+====
+Interlude 16 (Donation Bonus #3)
+marquis: 152.49, amelia: 108.13, glaistig: 30.5, lung: 30.13, uaine: 27.73, teacher: 24.95, cell: 22.87, leaders: 22.18, w: 19.41, daughter: 16.74, 
+
+====
+Monarch 16.11
+fence: 45.75, calvert: 23.54, grenades: 22.18, decoys: 20.79, bullets: 20.09, bottle: 16.64, molotov: 16.64, property: 14.56, smoke: 13.73, soldiers: 12.66, 
+
+====
+Monarch 16.12
+mortar: 27.73, mortars: 24.95, calvert: 20.6, soldiers: 13.23, box: 11.77, dinah: 10.49, coughing: 10.4, driving: 10.04, false: 9.7, calverts: 9.31, 
+
+====
+Monarch 16.13
+calvert: 47.08, tattletale: 18.8, grue: 17.86, doubts: 11.09, imp: 10.93, calverts: 9.31, soldiers: 9.21, gun: 9.01, phone: 9.01, kill: 8.83, 
+

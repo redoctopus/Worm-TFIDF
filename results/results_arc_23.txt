@@ -1,0 +1,24 @@
+====
+Drone 23.1
+hoyden: 48.38, clockblocker: 44.79, jouster: 38.45, tecton: 19.78, swoop: 19.71, prisoners: 17.92, prism: 17.92, dispatch: 17.92, adepts: 16.13, birds: 16.13, 
+
+====
+Drone 23.2
+prefab: 89.59, arbiter: 53.75, usher: 35.84, kulshedra: 34.04, leister: 28.67, vantage: 22.18, bambina: 21.49, satyr: 19.71, pretender: 17.58, box: 16.13, 
+
+====
+Drone 23.3
+glenn: 24.26, skidmark: 12.54, mail: 10.75, spiders: 6.59, vegas: 5.49, write: 5.49, calle: 5.38, portfolios: 5.38, poster: 5.38, meat: 5.38, 
+
+====
+Drone 23.4
+fox: 19.71, ned: 19.71, mrs: 14.56, yamada: 14.56, respect: 10.75, reynard: 10.75, stress: 8.96, restless: 8.96, maggie: 8.96, park: 7.17, 
+
+====
+Drone 23.5
+pack: 14.33, behemoth: 10.4, switches: 8.96, antigravity: 8.96, tattletale: 8.32, grue: 7.69, yngbn: 7.69, regent: 7.62, lightning: 7.62, noting: 7.17, 
+
+====
+Interlude 23
+cody: 94.96, yngbn: 45.04, thirty: 14.56, smoke: 14.28, behemoth: 11.78, accord: 11.09, magma: 10.75, lavender: 10.75, forcefield: 9.89, laser: 9.89, 
+

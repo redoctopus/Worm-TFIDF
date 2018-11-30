@@ -1,0 +1,40 @@
+====
+Plague 12.1
+sierra: 20.47, rats: 18.06, charlotte: 17.33, attempts: 9.21, rodents: 9.21, girls: 8.43, coils: 8.25, money: 7.22, coil: 7.15, house: 6.93, 
+
+====
+Plague 12.2
+boat: 31.3, purity: 23.03, hookwolf: 22.87, faultline: 17.7, trickster: 17.7, militia: 15.65, coil: 14.81, squealer: 13.82, roof: 13.24, undersiders: 12.88, 
+
+====
+Plague 12.3
+trickster: 65.99, noelle: 27.36, grue: 13.28, sundancer: 12.04, shes: 11.78, chess: 11.51, genesis: 11.27, ballistic: 10.84, imp: 9.21, regent: 9.19, 
+
+====
+Plague 12.4
+jack: 20.43, bonesaw: 17.41, tests: 16.86, cherish: 16.49, candidates: 14.48, tattoos: 13.82, test: 9.19, siberian: 9.01, shes: 9.01, regent: 8.17, 
+
+====
+Plague 12.5
+fence: 18.42, save: 9.63, window: 8.43, bedroom: 8.05, clock: 8.05, glass: 7.15, apartments: 6.91, surfaces: 6.91, write: 6.91, paramedics: 6.44, 
+
+====
+Plague 12.6
+wounds: 17.7, ambulances: 14.48, paramedics: 12.88, injured: 11.51, hydrogen: 11.51, peroxide: 11.51, crowd: 10.84, sand: 9.66, warehouse: 9.21, iodine: 9.21, 
+
+====
+Plague 12.7
+chain: 24.74, silk: 21.67, blade: 20.16, blades: 19.24, baton: 16.09, leg: 15.65, glue: 13.82, spinning: 12.88, frame: 11.51, swarm: 10.4, 
+
+====
+Plague 12.8
+sierra: 26.49, cupboard: 9.21, balcony: 9.21, lisa: 8.43, breakfast: 8.05, rice: 8.05, shutters: 6.91, stove: 6.91, dustpan: 6.91, japanese: 6.91, 
+
+====
+Interlude 12
+crawler: 26.49, bonesaw: 22.91, siberian: 22.87, aircraft: 20.72, cherish: 17.41, crowd: 16.86, jack: 15.84, candidates: 11.27, skidmarks: 9.66, hack: 9.21, 
+
+====
+Interlude 12½ (Donation Bonus)
+jamie: 101.31, madcap: 69.08, sample: 41.45, cauldron: 29.93, chair: 27.63, doctor: 24.95, p: 23.03, battery: 22.88, legend: 22.53, r: 20.72, 
+

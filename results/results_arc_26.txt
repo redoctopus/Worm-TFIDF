@@ -1,0 +1,40 @@
+====
+Sting 26.1
+rifle: 20.72, cozen: 18.42, getaway: 13.82, pile: 9.21, imp: 9.01, grue: 8.68, traps: 8.32, tarp: 8.05, acid: 7.33, spiral: 7.22, 
+
+====
+Sting 26.2
+crimson: 37.57, screamer: 30.1, winters: 19.31, torpor: 11.51, winter: 11.09, password: 9.66, sliding: 9.21, cherish: 9.01, pages: 8.05, grenade: 8.05, 
+
+====
+Sting 26.3
+clockblocker: 29.81, crucible: 24.74, rat: 20.47, eidolon: 19.31, vista: 17.33, murder: 16.64, stairwell: 16.12, forcefield: 16.09, grue: 15.32, parasites: 13.82, 
+
+====
+Interlude 26 (Donation Bonus #1)
+saint: 48.16, mags: 40.24, program: 25.33, data: 22.91, dobrynja: 19.31, geoff: 19.31, bus: 17.7, programs: 16.12, coffee: 16.12, dragon: 14.81, 
+
+====
+Sting 26.4
+nilbog: 25.32, lizard: 16.12, angel: 13.82, table: 12.04, garden: 11.51, gift: 11.51, eat: 11.27, nilbogs: 11.09, kingdom: 11.0, my: 10.01, 
+
+====
+Sting 26.5
+hatchet: 21.99, cube: 19.26, jouster: 18.42, hags: 16.12, rat: 15.65, murder: 13.86, miasma: 13.82, siberians: 13.24, gargoyle: 11.51, winning: 11.51, 
+
+====
+Sting 26.6
+charger: 32.24, vats: 16.12, decoder: 13.82, defiant: 10.93, ramp: 10.84, gray: 10.34, hoyden: 10.08, pendragon: 9.63, my: 9.06, boy: 8.92, 
+
+====
+Interlude 26a
+harbingers: 30.58, harbinger: 17.7, hoyden: 16.49, hammer: 16.12, theo: 13.74, aster: 9.66, bohu: 9.66, justin: 9.21, solo: 9.21, thrust: 8.43, 
+
+====
+Interlude 26b
+theo: 29.32, hookwolf: 22.88, alley: 20.92, hookwolfs: 11.27, training: 9.66, sparring: 9.21, heartless: 9.21, shredded: 9.21, clown: 9.21, questions: 8.25, 
+
+====
+Interlude 26
+entity: 149.29, shards: 122.32, shard: 101.31, worlds: 49.89, entitys: 48.35, species: 46.05, cycle: 46.05, counterpart: 45.06, realities: 39.14, male: 38.63, 
+

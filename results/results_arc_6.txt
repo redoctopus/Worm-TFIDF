@@ -1,0 +1,40 @@
+====
+Tangle 6.1
+katana: 11.51, spitfire: 11.51, fight: 9.63, abb: 8.32, bat: 8.05, gregor: 8.05, tenement: 6.91, snail: 6.91, wrist: 6.91, building: 6.64, 
+
+====
+Tangle 6.2
+bus: 12.88, article: 11.51, temperature: 9.21, relationship: 9.21, brian: 7.62, clothes: 7.33, morning: 7.22, waking: 6.91, closet: 6.44, image: 6.02, 
+
+====
+Tangle 6.3
+aisha: 55.26, brian: 25.65, aishas: 23.03, counter: 13.82, bedroom: 13.82, caseworker: 13.24, shelves: 11.51, smiled: 10.84, leg: 9.63, balcony: 9.21, 
+
+====
+Tangle 6.4
+vote: 16.12, alec: 16.09, brian: 11.09, lisa: 9.71, wards: 8.25, superbomb: 6.91, wants: 6.91, gonna: 6.91, million: 6.91, hour: 6.44, 
+
+====
+Tangle 6.5
+triumph: 18.42, foam: 16.49, tank: 14.48, battery: 11.27, grue: 9.99, tickets: 9.21, expanded: 9.21, weapon: 8.25, roof: 8.05, squad: 8.05, 
+
+====
+Tangle 6.6
+pole: 36.84, armsmaster: 29.12, velocity: 20.92, halberd: 18.06, weapon: 17.41, militia: 13.24, chain: 11.91, regent: 11.78, grappling: 11.27, patio: 11.27, 
+
+====
+Tangle 6.7
+dauntless: 51.5, forcefield: 20.72, parking: 18.42, circus: 18.42, garage: 14.48, arclance: 13.82, sledgehammer: 13.82, armsmaster: 11.75, retreat: 11.51, alley: 11.51, 
+
+====
+Tangle 6.8
+coil: 18.71, limousine: 16.12, vans: 11.51, will: 11.09, trickster: 9.63, business: 9.21, dogs: 8.32, yourselves: 8.05, crime: 8.05, regent: 7.62, 
+
+====
+Tangle 6.9
+envelope: 19.31, taylor: 11.91, dad: 11.06, militia: 9.63, friendship: 9.21, bullying: 9.21, despite: 8.05, pockets: 8.05, sit: 8.05, phone: 7.22, 
+
+====
+Interlude 6
+paige: 145.06, bakuda: 43.07, metal: 25.65, truck: 25.33, strip: 25.33, teeth: 21.67, block: 20.92, paiges: 20.72, restraints: 20.72, prison: 18.42, 
+

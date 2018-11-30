@@ -1,0 +1,24 @@
+====
+Sentinel 9.1
+maam: 14.33, boston: 12.54, helicopter: 12.54, parahumans: 9.89, stranger: 8.96, armstrong: 8.96, local: 8.79, doors: 7.69, many: 7.69, airport: 7.17, 
+
+====
+Sentinel 9.2
+arbalest: 23.29, gorilla: 14.33, flechette: 12.4, bolt: 12.08, parian: 11.78, lid: 10.75, gorillas: 10.75, rooftop: 10.4, mans: 8.96, restraint: 8.96, 
+
+====
+Sentinel 9.3
+events: 17.92, trickster: 14.28, genesis: 14.28, abilities: 10.75, glory: 9.7, individuals: 8.96, parahumans: 8.79, scion: 7.69, sundancer: 7.69, trigger: 7.62, 
+
+====
+Sentinel 9.4
+chariot: 17.58, chariots: 16.13, ballistic: 14.28, bodies: 12.54, kid: 11.12, trickster: 10.99, win: 10.21, projects: 8.96, mother: 7.69, killer: 7.17, 
+
+====
+Sentinel 9.5
+sophia: 17.33, scar: 12.54, younger: 8.96, picture: 8.96, towel: 8.96, rabbit: 7.17, sophias: 7.17, gallant: 6.93, chariot: 6.59, road: 5.49, 
+
+====
+Sentinel 9.6
+skitter: 59.13, bugs: 25.08, swarm: 19.71, bug: 16.13, crossbow: 15.38, emma: 14.33, state: 13.17, truck: 12.54, bolt: 10.99, darkness: 10.75, 
+

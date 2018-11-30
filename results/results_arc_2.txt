@@ -1,0 +1,40 @@
+====
+Insinuation 2.1
+toast: 9.21, fridge: 6.91, plate: 6.91, bed: 6.44, french: 6.44, bite: 6.44, dad: 5.71, tired: 4.83, pepper: 4.83, spray: 4.83, 
+
+====
+Insinuation 2.2
+search: 17.7, wiki: 15.65, page: 14.48, message: 12.04, board: 11.51, assignment: 9.21, usually: 9.21, news: 9.21, boards: 9.21, asian: 9.21, 
+
+====
+Insinuation 2.3
+greg: 32.24, mr: 32.19, gladly: 27.36, seat: 13.82, desk: 11.51, sparky: 11.51, madisons: 11.51, julia: 11.27, madison: 10.84, teacher: 8.05, 
+
+====
+Insinuation 2.4
+emma: 12.83, emmas: 9.21, insults: 6.91, ignore: 6.91, died: 6.44, girls: 6.24, window: 4.83, mr: 4.83, gladly: 4.83, sophia: 4.82, 
+
+====
+Insinuation 2.5
+message: 12.04, tattletale: 8.32, library: 7.22, possibility: 6.91, trap: 6.91, rebug: 6.91, scenario: 6.44, casual: 6.44, proof: 6.44, meet: 6.41, 
+
+====
+Insinuation 2.6
+lisa: 17.41, brian: 16.49, alec: 10.08, grue: 8.43, bite: 8.05, thousand: 6.91, show: 6.91, recluse: 6.91, effective: 6.91, bet: 6.44, 
+
+====
+Insinuation 2.7
+lisa: 24.74, brian: 19.24, alec: 16.49, couch: 14.48, space: 11.27, waved: 9.21, loft: 8.43, building: 7.22, cans: 6.91, rusted: 6.91, 
+
+====
+Insinuation 2.8
+brian: 15.58, dogs: 14.66, stairs: 11.27, bitch: 10.4, swarm: 9.66, rottweiler: 9.21, whistle: 9.21, view: 9.21, railing: 9.21, blood: 7.33, 
+
+====
+Insinuation 2.9
+brian: 16.49, alec: 13.74, lisa: 12.83, ear: 6.02, darkness: 6.02, bitch: 5.55, aid: 4.83, sounded: 4.83, beside: 4.61, kit: 4.61, 
+
+====
+Interlude 2
+victoria: 82.89, amy: 69.08, sister: 19.31, thug: 13.82, flew: 11.51, skinhead: 11.51, fix: 9.66, fuck: 9.63, broken: 9.63, air: 9.21, 
+

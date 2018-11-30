@@ -1,0 +1,32 @@
+====
+Cell 22.1
+dinah: 22.56, tagg: 18.41, triumph: 11.77, toilet: 10.4, clockblocker: 9.4, mrs: 8.83, yamada: 8.83, containment: 8.32, officer: 7.85, foam: 6.93, 
+
+====
+Cell 22.2
+parahuman: 22.18, june: 20.79, toybox: 18.71, calle: 15.94, assault: 14.71, tagg: 10.93, enforcement: 10.4, treason: 10.4, mr: 10.34, client: 9.7, 
+
+====
+Cell 22.3
+dad: 19.27, tagg: 16.69, calle: 12.48, vista: 10.79, mr: 9.87, opinion: 6.93, grateful: 6.24, siberian: 6.24, charge: 5.88, crucible: 4.9, 
+
+====
+Cell 22.4
+alexandria: 14.67, dad: 14.1, calle: 13.17, spiders: 10.4, tagg: 9.78, offer: 9.7, imps: 8.32, mr: 7.52, bugs: 7.19, dads: 6.93, 
+
+====
+Cell 22.5
+defiant: 14.1, keys: 13.86, swarm: 12.48, bugs: 12.08, grenade: 8.32, cartridge: 8.32, spear: 8.32, silk: 6.93, restraints: 6.93, defiants: 6.93, 
+
+====
+Cell 22.6
+chevalier: 14.71, stage: 12.48, defiant: 12.22, craft: 8.32, cockpit: 8.32, alexandria: 7.48, reporters: 6.87, workable: 6.24, ai: 6.24, thatll: 6.24, 
+
+====
+Interlude 22
+charlotte: 170.51, forrest: 66.54, danny: 41.59, kathy: 37.43, kids: 31.88, reporter: 24.95, aidan: 22.87, jessie: 18.71, kitchen: 18.71, ethan: 18.71, 
+
+====
+Interlude 22 (Donation Bonus #1)
+teacher: 72.78, daiichi: 64.46, marquis: 54.07, kenta: 49.91, lung: 48.88, ren: 37.43, amelia: 33.27, bodyguard: 29.11, chinese: 27.03, daiichis: 22.87, 
+

@@ -1,0 +1,28 @@
+====
+Chrysalis 20.1
+forrest: 20.04, crepe: 11.68, u: 8.77, kids: 8.39, neighbors: 7.78, parent: 7.78, lunches: 7.78, dad: 7.28, bite: 6.78, eric: 6.26, 
+
+====
+Chrysalis 20.2
+rt: 13.62, greg: 12.71, core: 9.73, sun: 7.78, non: 7.78, enthusiasm: 7.78, computers: 6.26, classes: 6.16, inconvenient: 5.84, texting: 5.84, 
+
+====
+Chrysalis 20.3
+emma: 25.18, collins: 15.57, emmas: 11.68, hebert: 11.27, dad: 8.39, sophia: 6.26, principal: 6.16, buy: 5.84, wouldve: 5.84, sleeveless: 5.84, 
+
+====
+Chrysalis 20.4
+cafeteria: 15.25, decoys: 13.62, doors: 10.17, cords: 9.73, sere: 8.39, pockets: 7.78, lockdown: 7.78, auditorium: 7.52, students: 6.73, guards: 6.72, 
+
+====
+Chrysalis 20.5
+defiant: 39.82, dragon: 37.28, dinah: 13.62, reputation: 9.73, precog: 9.73, clockblocker: 9.32, spear: 8.77, custody: 8.77, orders: 7.78, glove: 7.52, 
+
+====
+Interlude 20 (Donation Bonus #1)
+stan: 44.76, director: 33.08, marshall: 27.24, tagg: 23.35, defiant: 22.88, nipper: 21.41, piggot: 21.41, van: 17.51, dragon: 16.95, jack: 16.29, 
+
+====
+Interlude 20
+accord: 53.87, sir: 35.03, valefor: 31.32, butcher: 19.46, citrine: 17.51, steel: 15.57, othello: 13.62, cane: 9.73, accords: 9.73, eligos: 9.73, 
+

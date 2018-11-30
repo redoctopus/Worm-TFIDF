@@ -1,0 +1,40 @@
+====
+Scourge 19.1
+walkway: 16.12, skitter: 14.81, dog: 11.91, tattletale: 10.93, doorway: 10.84, rachel: 10.22, heat: 9.66, militia: 9.63, mannequin: 8.43, imp: 8.25, 
+
+====
+Scourge 19.2
+scapegoat: 16.64, injuries: 16.12, calvert: 9.66, imp: 9.16, militia: 8.56, grace: 7.62, conclusions: 6.91, exhausted: 6.91, somewhat: 6.91, resolved: 6.91, 
+
+====
+Scourge 19.3
+tecton: 16.86, flash: 11.51, scrub: 10.84, earths: 9.66, limitations: 9.21, passenger: 8.43, tattletale: 7.81, sundancer: 7.22, raymancer: 6.91, buried: 6.91, 
+
+====
+Interlude 19 (Donation Bonus #1)
+rey: 128.94, accord: 55.26, defiant: 35.41, spear: 34.54, bonesaw: 32.51, lab: 29.93, morrgan: 29.93, homunculus: 23.03, samples: 22.53, citrine: 20.72, 
+
+====
+Scourge 19.4
+gully: 23.82, tattletale: 9.82, militia: 8.92, atlas: 7.33, wanton: 6.93, opens: 6.91, garage: 6.91, threes: 6.91, appearance: 6.44, travelers: 6.41, 
+
+====
+Scourge 19.5
+kudzu: 20.92, echidna: 20.69, lasers: 16.09, clones: 13.91, pole: 13.82, arrows: 13.82, doubles: 13.82, legends: 12.04, alexandria: 11.24, slowing: 9.63, 
+
+====
+Scourge 19.6
+vacuum: 17.7, flickering: 13.82, clockblocker: 13.24, ice: 10.08, echidna: 9.99, wind: 9.01, eidolon: 8.93, carried: 8.43, clone: 8.17, battlefield: 8.05, 
+
+====
+Scourge 19.7
+faultline: 43.75, labyrinth: 32.24, alexandria: 20.94, brother: 16.12, sundancer: 14.45, clockblocker: 12.04, labyrinths: 11.51, lisa: 11.27, tattletale: 10.93, echidna: 10.7, 
+
+====
+Interlude 19 (Donation Bonus #2)
+th: 142.76, july: 126.64, boards: 32.24, xxvoidcowboyxx: 32.24, gstringgirl: 29.93, page: 24.14, june: 23.03, board: 20.92, refugee: 20.72, posted: 18.42, 
+
+====
+Interlude 19
+emma: 143.24, sophia: 41.85, taylor: 34.82, shadow: 32.19, taylors: 25.33, emmas: 22.53, car: 18.33, father: 16.09, stalker: 14.48, mother: 13.82, 
+

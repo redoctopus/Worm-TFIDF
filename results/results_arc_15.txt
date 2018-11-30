@@ -1,0 +1,56 @@
+====
+Colony 15.1
+barker: 39.59, alec: 31.67, bitch: 31.35, biter: 29.03, bitchs: 21.11, lisa: 20.03, brian: 16.29, jacket: 15.83, dog: 15.57, dogs: 13.78, 
+
+====
+Interlude 15 (Donation Bonus)
+carol: 110.84, brandish: 101.19, marquis: 97.65, amy: 66.24, sarah: 47.5, manpower: 36.95, photon: 30.81, victoria: 29.03, lady: 23.68, alan: 18.47, 
+
+====
+Colony 15.2
+regent: 18.02, fog: 16.94, night: 13.86, shards: 11.68, rune: 11.68, imp: 10.63, trio: 10.56, shatterbird: 9.51, smoke: 9.24, glass: 9.01, 
+
+====
+Colony 15.3
+victor: 31.92, othala: 27.73, regent: 12.48, rune: 11.68, cousin: 10.56, stalker: 9.73, snarled: 7.92, heeb: 7.92, capture: 7.92, data: 7.92, 
+
+====
+Interlude 15 (Donation Bonus #2)
+aisha: 24.65, taylor: 20.03, brian: 12.53, anxiety: 10.56, symbols: 9.73, sink: 7.92, marker: 7.92, negative: 7.92, bag: 7.21, chicken: 6.26, 
+
+====
+Colony 15.4
+brian: 17.54, aisha: 13.86, sundancer: 10.78, genesis: 8.47, trickster: 8.32, shower: 7.92, ballistic: 7.21, news: 6.16, travelers: 5.55, refused: 5.28, 
+
+====
+Colony 15.5
+ballistic: 16.47, noelle: 10.78, mole: 7.92, watchdog: 7.92, coworker: 7.92, credit: 7.78, coworkers: 7.78, victor: 7.21, dolltown: 6.26, regent: 6.24, 
+
+====
+Colony 15.6
+parian: 38.1, flechette: 31.35, armsmaster: 20.03, therapy: 15.83, spike: 8.77, arrested: 7.92, perspectives: 7.92, panel: 7.78, ballistic: 7.21, arrest: 6.16, 
+
+====
+Colony 15.7
+brooks: 40.86, bryce: 34.31, sierra: 26.19, socket: 13.62, supplies: 9.73, laptop: 9.73, charlotte: 9.24, clone: 9.24, swarm: 8.24, medic: 7.92, 
+
+====
+Interlude 15 (Donation Bonus #3)
+alexandria: 95.35, doctor: 75.89, eidolon: 68.62, rebecca: 52.78, legend: 37.58, siberian: 29.19, manton: 29.03, hero: 28.81, mother: 21.41, th: 18.47, 
+
+====
+Colony 15.8
+trickster: 25.65, swarm: 16.47, clone: 15.4, rory: 13.62, genesis: 11.01, dining: 10.56, girlfriend: 9.24, mayor: 8.47, relative: 7.92, binoculars: 7.92, 
+
+====
+Colony 15.9
+triumph: 28.81, prism: 23.8, swarm: 21.62, heroine: 15.83, duplicates: 15.83, consolidating: 13.2, tripwire: 13.2, mayor: 11.86, closet: 11.68, copies: 11.68, 
+
+====
+Colony 15.10
+tea: 10.56, dad: 9.7, mayors: 9.24, sling: 9.24, backup: 7.92, trash: 7.92, lied: 7.78, atlas: 7.28, trickster: 6.24, checked: 6.16, 
+
+====
+Interlude 15
+defiant: 36.95, triumph: 36.33, assault: 32.35, militia: 27.56, clockblocker: 26.39, dragon: 23.11, miss: 22.88, director: 19.46, armsmaster: 18.49, piggot: 18.47, 
+

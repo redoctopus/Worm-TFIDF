@@ -1,0 +1,52 @@
+====
+Shell 4.1
+emma: 11.73, brian: 10.05, stall: 9.36, class: 8.8, north: 7.69, murderer: 7.69, percent: 5.87, morning: 5.87, sweater: 5.87, market: 5.73, 
+
+====
+Shell 4.2
+curtain: 13.1, clothes: 11.79, cautious: 10.26, jeans: 9.43, lisa: 8.67, wardrobe: 7.69, button: 7.69, arrived: 7.69, dress: 7.49, brian: 6.96, 
+
+====
+Shell 4.3
+alec: 13.62, lisa: 12.38, brian: 10.82, dealt: 7.69, hospital: 7.69, revenge: 7.49, bullies: 7.49, plate: 5.87, theyd: 5.87, explain: 5.62, 
+
+====
+Shell 4.4
+spiders: 18.72, brian: 17.01, mother: 13.1, sister: 12.82, aisha: 12.82, moms: 10.26, spider: 10.26, silk: 10.26, tens: 10.26, dresser: 10.26, 
+
+====
+Shell 4.5
+camera: 13.1, leet: 11.73, storage: 9.43, ber: 9.43, lockers: 8.8, costumes: 7.33, their: 5.88, bus: 5.62, broad: 5.62, theme: 5.62, 
+
+====
+Shell 4.6
+leet: 35.19, ber: 21.22, regent: 10.82, leets: 9.36, lame: 7.69, useful: 7.69, bombs: 5.89, bomb: 5.73, lose: 5.62, obvious: 5.62, 
+
+====
+Interlude 3½ (Bonus)
+kayden: 71.82, max: 35.91, theo: 33.34, aster: 25.65, team: 15.32, vacation: 10.26, office: 10.26, empire: 10.26, blades: 10.26, days: 9.56, 
+
+====
+Shell 4.7
+lockers: 20.53, members: 16.85, grue: 16.24, alley: 13.2, climbed: 13.1, lone: 7.69, slowing: 7.69, plumes: 7.69, ourselves: 7.69, air: 7.64, 
+
+====
+Shell 4.8
+bakuda: 18.56, shoot: 11.23, gun: 9.56, crowd: 7.64, park: 7.49, jihoo: 7.49, camera: 7.49, guns: 7.33, thugs: 7.33, jeep: 7.07, 
+
+====
+Shell 4.9
+frost: 15.39, ice: 14.97, grue: 13.92, jeep: 11.79, frozen: 10.26, driver: 9.36, rocket: 7.69, tower: 7.69, debris: 7.49, toe: 7.33, 
+
+====
+Shell 4.10
+knife: 12.42, pain: 9.43, bakuda: 8.51, thoughts: 8.25, grue: 7.73, distortion: 7.69, manton: 7.69, works: 7.69, crimson: 7.49, pink: 7.07, 
+
+====
+Shell 4.11
+dad: 21.22, brian: 20.88, lisa: 18.57, taylor: 14.33, warm: 12.82, concussion: 12.82, tea: 12.82, bed: 11.73, doctor: 10.26, music: 10.26, 
+
+====
+Interlude 4
+brutus: 278.9, master: 253.93, smells: 35.56, knows: 33.34, human: 31.82, tail: 30.78, walkies: 28.21, female: 28.08, says: 24.33, smell: 24.33, 
+

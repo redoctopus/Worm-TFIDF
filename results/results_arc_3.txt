@@ -1,0 +1,52 @@
+====
+Agitation 3.1
+sophia: 20.52, brian: 11.17, morning: 9.43, usually: 9.36, boardwalk: 8.8, wooden: 7.69, stores: 7.69, laughed: 7.69, crab: 7.69, art: 7.69, 
+
+====
+Agitation 3.2
+alec: 20.1, brian: 13.59, boardwalk: 8.8, enforcers: 7.69, dork: 7.69, stronger: 7.69, jabbed: 7.69, knee: 7.69, beach: 5.62, gang: 5.62, 
+
+====
+Agitation 3.3
+brian: 16.99, lisa: 11.65, alec: 11.6, robbery: 10.26, thou: 10.26, manton: 10.26, doesnt: 7.73, guaranteed: 7.69, stretch: 7.69, cash: 7.49, 
+
+====
+Agitation 3.4
+dad: 29.62, ferry: 13.1, earth: 7.69, library: 7.69, smart: 7.69, friends: 7.49, names: 5.89, moms: 5.13, death: 5.13, phones: 5.13, 
+
+====
+Agitation 3.5
+armsmaster: 8.51, detector: 7.69, spy: 7.69, halberd: 7.49, lie: 5.89, gave: 5.73, hoping: 5.62, phq: 5.62, asking: 5.62, credit: 5.13, 
+
+====
+Agitation 3.6
+robbers: 10.26, traffic: 10.26, van: 8.8, lisa: 7.77, endbringers: 7.69, cops: 7.49, car: 5.62, downpour: 5.13, adults: 5.13, interests: 5.13, 
+
+====
+Agitation 3.7
+rear: 10.26, van: 8.8, scepter: 7.69, fur: 7.69, hallway: 7.69, room: 6.62, effect: 5.87, shirt: 5.87, showed: 5.62, employee: 5.62, 
+
+====
+Agitation 3.8
+vault: 10.61, harness: 10.26, drawers: 10.26, bag: 9.28, brutus: 8.25, grue: 7.72, stacks: 7.69, educated: 7.69, filled: 7.07, hes: 6.19, 
+
+====
+Agitation 3.9
+aegis: 14.24, judas: 13.1, bugs: 12.14, clockblocker: 8.51, clockblockers: 7.69, freeze: 7.49, fell: 5.87, crawling: 5.87, distorted: 5.62, darkness: 5.34, 
+
+====
+Agitation 3.10
+judas: 16.85, cannon: 14.66, win: 13.38, kid: 13.14, blast: 12.82, distance: 11.73, vista: 11.6, fallen: 10.26, aegis: 8.67, sent: 8.25, 
+
+====
+Agitation 3.11
+glory: 33.0, panacea: 16.13, girl: 15.05, extinguisher: 13.1, panaceas: 13.1, pain: 8.8, spider: 7.49, pressed: 7.49, grip: 6.69, knife: 6.69, 
+
+====
+Agitation 3.12
+glory: 27.11, panacea: 20.53, knowing: 13.1, girl: 10.2, calling: 7.69, threw: 7.69, umbrella: 7.69, tattletale: 6.3, holding: 5.87, angelica: 5.73, 
+
+====
+Interlude 3
+gallant: 35.36, piggot: 25.65, director: 23.08, panacea: 16.13, whiteboard: 15.39, win: 14.33, kid: 13.14, prt: 13.1, aegis: 13.0, tour: 12.82, 
+

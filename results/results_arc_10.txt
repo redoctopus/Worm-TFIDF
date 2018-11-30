@@ -1,0 +1,32 @@
+====
+Parasite 10.1
+couch: 14.56, box: 12.48, generator: 12.48, kitchen: 9.81, flashlight: 8.32, angelica: 8.32, angelicas: 8.32, chairs: 8.32, cords: 8.32, webs: 8.32, 
+
+====
+Parasite 10.2
+brian: 24.52, lisa: 23.57, alec: 16.64, aisha: 12.48, looters: 8.32, barking: 6.24, gate: 6.24, tranquilized: 6.24, truck: 6.24, anticipated: 6.24, 
+
+====
+Parasite 10.3
+sparks: 18.71, win: 14.71, elevator: 13.86, flechette: 12.75, blue: 12.48, kid: 11.09, horned: 10.4, pepper: 10.4, reaching: 8.32, abdomens: 8.32, 
+
+====
+Parasite 10.4
+flamethrower: 8.32, gun: 6.33, tinkers: 6.24, taser: 6.24, grenade: 5.55, weld: 5.18, guns: 4.9, stairwell: 4.9, hefted: 4.16, axe: 4.16, 
+
+====
+Parasite 10.5
+glass: 17.65, foam: 15.94, spray: 11.09, dragon: 10.93, bars: 10.4, whine: 10.4, lobby: 9.81, streams: 9.7, shop: 8.83, turrets: 8.32, 
+
+====
+Parasite 10.6
+smoke: 22.87, pet: 22.87, coil: 18.64, baton: 15.25, happens: 14.56, dinah: 13.86, percent: 13.86, jaw: 12.48, fucked: 11.09, militia: 8.32, 
+
+====
+Interlude 10
+emma: 45.75, mom: 16.64, sophia: 13.17, mother: 12.48, terry: 12.48, phone: 11.78, alec: 11.09, host: 10.4, steven: 10.4, emotions: 9.7, 
+
+====
+Interlude 10.5 (Bonus)
+marquis: 35.35, prisoner: 33.27, lung: 29.11, agent: 24.95, complete: 22.18, birdcage: 20.79, core: 16.64, backup: 16.64, programs: 16.64, program: 16.64, 
+

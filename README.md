@@ -13,4 +13,4 @@ Inverse document frequency is calculated given a word, such that `idf(w) = log(#
 Then, `tfidf(w,d) = tf(w,d) * idf(w)`. Words with the higher tf-idf scores per chapter are ones that appear proportionally more in that chapter than in the rest of Worm.
 
 ## Results
-For the tf-idf results per chapter, computed over the full corpus, click [here](full_corpus_results.txt).
+For the tf-idf results per chapter, computed over the full corpus, click [here](results/results_full_corpus.txt).

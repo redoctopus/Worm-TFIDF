@@ -1,0 +1,28 @@
+====
+Speck 30.1
+marquis: 58.88, canary: 15.25, bone: 15.11, cave: 15.03, tattletale: 13.46, branches: 11.68, shaft: 9.73, lung: 8.39, god: 7.78, branch: 7.78, 
+
+====
+Speck 30.2
+teleporter: 25.3, marquis: 13.78, acidbath: 10.02, pendragon: 9.73, map: 9.73, nilbogs: 7.78, fragmented: 7.78, officers: 7.78, chevalier: 7.63, sword: 7.52, 
+
+====
+Speck 30.3
+students: 25.3, teacher: 11.1, enhanced: 9.73, table: 7.78, scratch: 7.78, operations: 7.78, palace: 7.52, shn: 7.52, places: 6.26, avoid: 6.26, 
+
+====
+Speck 30.4
+drones: 33.82, facility: 15.57, shn: 10.02, lights: 10.02, dragon: 9.76, containment: 8.77, foam: 8.77, lightning: 7.78, gauges: 7.78, fans: 7.78, 
+
+====
+Speck 30.5
+sifara: 13.62, moord: 12.53, nag: 12.53, ball: 12.53, beast: 10.02, labyrinth: 9.73, ash: 9.32, flesh: 7.83, cuff: 7.78, capes: 7.71, 
+
+====
+Speck 30.6
+warper: 15.57, endbringer: 12.53, stuffed: 12.53, blonde: 11.68, dog: 11.27, lizard: 9.73, friend: 8.47, chute: 7.78, rods: 7.78, skinned: 7.78, 
+
+====
+Speck 30.7
+knife: 21.41, strangers: 15.57, resistance: 6.26, threatening: 6.26, fates: 5.84, intercept: 5.84, grasped: 5.84, relaxing: 5.84, blond: 5.84, term: 5.84, 
+

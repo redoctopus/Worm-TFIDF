@@ -64,6 +64,8 @@ if __name__ == '__main__':
     args = parser.parse_args()
     arc = args.arc
 
+    #TODO: Use whole arcs as documents someday?
+
     if arc in range(32): # 0 scrapes everything
         start, maximum = scrape_params[arc]
         chapter_words, N, dfs = scrape_worm(

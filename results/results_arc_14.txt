@@ -1,0 +1,52 @@
+====
+Prey 14.1
+lisa: 41.25, alec: 37.44, aisha: 26.21, brian: 20.88, page: 12.82, bitch: 11.65, stove: 11.23, breakfast: 10.26, coffee: 10.26, smart: 9.36, 
+
+====
+Prey 14.2
+mall: 17.95, amy: 15.48, binoculars: 15.39, siberian: 10.52, crashing: 10.26, decoy: 9.36, dallon: 7.69, index: 7.69, description: 7.69, fragment: 7.69, 
+
+====
+Prey 14.3
+truck: 17.68, amy: 11.02, chariot: 10.26, trickster: 10.05, sirius: 9.56, bentley: 7.64, slightly: 7.64, vehicle: 7.49, plastic: 5.89, orb: 5.89, 
+
+====
+Prey 14.4
+imp: 17.6, genesis: 15.32, ballistic: 10.82, crawler: 10.68, zero: 7.69, impacts: 7.69, silk: 7.64, director: 7.07, relay: 7.07, battery: 6.96, 
+
+====
+Prey 14.5
+weld: 35.35, cache: 16.5, car: 16.5, cars: 14.66, grenade: 14.66, welds: 12.82, frozen: 11.23, crawler: 11.17, flaming: 10.26, mannequin: 8.4, 
+
+====
+Prey 14.6
+acid: 18.72, fix: 12.97, victoria: 10.61, flechette: 9.36, prism: 9.36, enzymes: 9.36, glory: 9.22, beetle: 8.6, atlas: 8.51, vista: 8.25, 
+
+====
+Prey 14.7
+shelter: 29.33, library: 24.33, legend: 22.9, truck: 16.5, laser: 10.61, locations: 7.69, prosthetic: 7.69, expanded: 7.69, attrition: 7.69, vault: 7.49, 
+
+====
+Prey 14.8
+miasma: 20.04, rooftop: 17.68, trickster: 13.14, rising: 13.1, vapor: 11.73, atlas: 9.28, legend: 8.67, gun: 8.67, progression: 7.69, swapped: 7.69, 
+
+====
+Prey 14.9
+coil: 16.5, traitor: 15.39, miasma: 12.97, mist: 7.64, pursuer: 7.49, agnosia: 7.49, arcadia: 7.49, decoys: 7.07, silk: 6.69, grue: 6.56, 
+
+====
+Prey 14.10
+amelia: 20.59, hallway: 13.1, panaceas: 12.82, slasher: 12.82, chemist: 12.82, marquis: 12.82, healer: 11.23, panacea: 10.52, blond: 10.26, shards: 10.26, 
+
+====
+Prey 14.11
+ship: 20.52, cure: 11.73, downtown: 10.61, curing: 10.26, boat: 9.36, graveyard: 9.36, ships: 9.36, cherish: 9.22, atlas: 8.51, coil: 8.25, 
+
+====
+Interlude 14
+sierra: 141.07, yan: 74.38, charlotte: 61.56, jay: 35.91, kids: 35.56, sugita: 25.65, bryce: 25.65, skitter: 24.14, soup: 17.95, knee: 13.1, 
+
+====
+Interlude 14.5 (Bonus Interlude)
+alexandria: 51.3, eidolon: 33.34, doctor: 28.29, cauldron: 22.46, legend: 19.81, william: 17.95, manton: 17.95, kid: 17.78, win: 16.24, endbringers: 13.1, 
+
