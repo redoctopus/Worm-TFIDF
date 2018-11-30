@@ -28,14 +28,16 @@ def scrape_worm(start_link=FIRST_PAGE, maximum=None):
     """
     Scrapes every chapter, starting from the link given if provided.
 
-    Returns a list of tuples: [(chapter_title, [list of words]), ...], as well 
-    as the dictionary as a set.
-    (List and not dict because we want these in chapter order.)
+    Returns:
+        - A list of tuples: [(chapter_title, [list of words]), ...],
+          (List and not dict because we want these in chapter order.)
+        - The number of documents
+        - The document frequencies as a dict (keys are the vocab).
     """
     link = start_link
     count = 0
     chapter_words = []
-    D = set()
+    dfs = {}
 
     # Keep scraping until the "Next Chapter" link is just "End"
     while(link != None):
@@ -44,7 +46,7 @@ def scrape_worm(start_link=FIRST_PAGE, maximum=None):
         
         # Find title of the chapter
         title = content.find(class_='entry-title').string
-        print(title)
+        #print(title)
 
         # Find next link
         next_chapter_tag = content.find(next_chapter_in_text)
@@ -67,16 +69,21 @@ def scrape_worm(start_link=FIRST_PAGE, maximum=None):
             chapter_text += words
 
         chapter_words.append((title, chapter_text))
-        D |= set(chapter_text)
+
+        # Update document frequencies of all words appearing in the chapter
+        for w in set(chapter_text):
+            if dfs.get(w) == None:
+                dfs[w] = 0
+            dfs[w] += 1
 
         count += 1
         if maximum != None and count >= maximum:
             break
     
-    return chapter_words, D
+    return chapter_words, count, dfs
 
 if __name__ == '__main__':
     # Start off in Gestation 1.1
-    chapter_words = scrape_worm()
+    chapter_words, count, dfs = scrape_worm()
     chapter_dict = dict(chapter_words)
 

@@ -1,0 +1,1216 @@
+====
+Gestation 1.1
+madison: 18.38, juice: 17.49, lunch: 15.76, mr: 15.33, gladly: 14.55, popular: 14.42, bathroom: 13.25, sophia: 12.97, class: 12.72, toilet: 12.04, 
+
+====
+Gestation 1.2
+notebook: 34.14, coal: 21.65, spiders: 14.4, chute: 13.86, grape: 12.99, northeastern: 11.43, workbench: 11.31, backpack: 10.81, juice: 9.99, widows: 9.23, 
+
+====
+Gestation 1.3
+gang: 15.58, lung: 11.95, gangsters: 11.43, azn: 9.24, whores: 8.66, sunday: 8.22, boardwalk: 8.21, cigarette: 8.16, mooks: 7.85, tourists: 7.04, 
+
+====
+Gestation 1.4
+lung: 25.1, bee: 18.19, stinger: 13.86, venomous: 11.78, wasp: 10.56, fire: 9.68, plated: 9.24, gang: 7.79, sting: 7.38, licked: 7.28, 
+
+====
+Gestation 1.5
+roof: 24.34, lung: 23.9, flame: 13.12, pepper: 11.75, spray: 10.76, creatures: 9.4, ignited: 8.83, introductions: 8.66, jumping: 8.48, bee: 7.28, 
+
+====
+Gestation 1.6
+armsmaster: 19.78, credit: 12.02, capture: 11.78, east: 9.84, lung: 9.56, souped: 9.24, halberd: 9.03, canada: 8.66, spectacular: 8.66, oni: 7.62, 
+
+====
+Interlude 1
+danny: 58.48, daughter: 30.69, taylor: 16.97, temper: 14.08, bullies: 12.69, golden: 10.48, bullying: 10.33, hawke: 10.05, twentieth: 9.24, liner: 9.24, 
+
+====
+Insinuation 2.1
+toast: 14.08, dad: 13.47, french: 12.04, applesauce: 11.43, fridge: 9.23, bacon: 7.54, pan: 7.54, pepper: 7.05, frying: 6.64, shrugging: 6.16, 
+
+====
+Insinuation 2.2
+wiki: 45.76, assignment: 20.1, search: 18.81, titled: 15.07, page: 14.31, knott: 13.86, posts: 12.99, class: 12.72, asian: 12.04, blurb: 11.43, 
+
+====
+Insinuation 2.3
+gladly: 61.84, greg: 52.8, mr: 43.81, julia: 35.17, madisons: 25.12, madison: 23.63, sparky: 23.09, class: 14.13, classroom: 13.28, lecture: 11.31, 
+
+====
+Insinuation 2.4
+emma: 29.11, emmas: 11.31, gladly: 10.91, madison: 10.5, insults: 9.46, resilient: 9.24, girls: 8.91, grape: 8.66, sophia: 8.65, juice: 7.49, 
+
+====
+Insinuation 2.5
+library: 18.05, rebug: 17.15, proof: 15.08, lunch: 11.26, message: 11.02, uniting: 10.05, screensaver: 10.05, repay: 8.66, tt: 8.66, ta: 8.66, 
+
+====
+Insinuation 2.6
+lisa: 24.67, brian: 24.26, alec: 20.54, recluse: 13.86, lung: 10.76, dastardly: 10.05, voted: 9.24, library: 9.03, lunchbox: 8.66, scowl: 8.22, 
+
+====
+Insinuation 2.7
+lisa: 35.05, alec: 33.6, brian: 28.3, loft: 17.49, couch: 17.0, couches: 14.08, cans: 10.91, rusted: 10.24, yadda: 10.05, waved: 9.01, 
+
+====
+Insinuation 2.8
+brian: 22.91, rottweiler: 18.47, terrier: 13.86, german: 12.99, shepherd: 12.32, whistle: 10.89, dogs: 10.57, bitch: 8.99, railing: 8.11, stairs: 8.07, 
+
+====
+Insinuation 2.9
+alec: 28.0, brian: 24.26, lisa: 18.17, freakish: 10.05, puncture: 9.24, cotton: 7.85, wiki: 7.04, couches: 7.04, dad: 6.73, bruising: 6.64, 
+
+====
+Interlude 2
+victoria: 119.49, amy: 73.77, skinhead: 25.12, thug: 19.91, sister: 19.08, andrea: 17.15, dumpster: 14.08, victorias: 12.99, docks: 11.07, paramedics: 9.7, 
+
+====
+Agitation 3.1
+brian: 30.99, sophia: 17.29, boardwalk: 12.32, crab: 11.78, knotts: 11.43, jog: 10.24, morning: 9.92, school: 9.74, bus: 9.68, cafe: 9.24, 
+
+====
+Agitation 3.2
+alec: 48.54, brian: 37.73, enforcers: 12.99, boardwalk: 12.32, dork: 9.03, punch: 8.93, lisas: 8.88, jabs: 8.22, jabbed: 8.02, controller: 7.85, 
+
+====
+Agitation 3.3
+brian: 47.17, lisa: 31.16, alec: 28.0, bank: 24.44, thou: 22.87, robbery: 16.45, aegis: 14.53, touches: 12.61, brians: 11.26, manton: 10.5, 
+
+====
+Agitation 3.4
+dad: 26.1, ferry: 19.05, lisa: 10.39, library: 9.03, pork: 8.66, pranks: 7.85, alec: 7.47, robbery: 7.05, names: 6.93, breach: 6.83, 
+
+====
+Agitation 3.5
+armsmaster: 15.54, detector: 12.32, halberd: 12.04, spy: 10.91, phq: 9.23, poisons: 8.22, lie: 6.49, misread: 5.72, ratted: 5.72, handler: 5.72, 
+
+====
+Agitation 3.6
+lisa: 20.77, robbers: 18.47, van: 11.73, doldrums: 11.43, cops: 9.99, traffic: 9.4, rain: 7.06, property: 7.05, downpour: 6.83, ruse: 6.3, 
+
+====
+Agitation 3.7
+van: 11.73, scepter: 11.31, admired: 9.24, bank: 9.16, lobby: 8.42, employee: 8.32, fur: 7.62, freckles: 7.28, rear: 7.14, compact: 6.83, 
+
+====
+Agitation 3.8
+vault: 21.15, bag: 15.87, brutus: 15.33, drawers: 14.08, bitch: 13.18, grue: 12.21, harness: 12.04, fastened: 10.05, stacks: 9.7, strapping: 9.24, 
+
+====
+Agitation 3.9
+aegis: 55.69, clockblocker: 17.85, judas: 17.49, bank: 12.22, freeze: 11.78, hostages: 11.26, angelica: 9.26, darkness: 8.45, bugs: 7.97, clockblockers: 7.74, 
+
+====
+Agitation 3.10
+aegis: 33.9, cannon: 24.59, vista: 24.09, judas: 22.48, gallant: 14.99, kid: 14.97, win: 11.79, turret: 10.91, bank: 10.69, browbeat: 9.96, 
+
+====
+Agitation 3.11
+glory: 49.44, extinguisher: 30.32, panaceas: 23.9, panacea: 18.61, pointer: 13.86, headache: 11.78, tellers: 10.05, prom: 9.24, keychain: 9.24, conservation: 8.66, 
+
+====
+Agitation 3.12
+glory: 40.61, panacea: 23.68, angelica: 13.89, umbrella: 10.91, aegis: 9.68, shoppers: 9.24, tattletale: 8.99, darkness: 8.45, skateboard: 7.85, amy: 7.38, 
+
+====
+Interlude 3
+gallant: 74.94, aegis: 50.85, whiteboard: 30.14, clockblocker: 25.96, piggot: 22.83, tour: 21.65, browbeat: 19.91, panacea: 18.61, cannon: 17.21, punctured: 15.7, 
+
+====
+Shell 4.1
+brian: 17.52, emma: 16.64, market: 16.33, stall: 12.49, sweater: 12.31, alec: 11.2, lisa: 10.39, quinlan: 10.05, purses: 10.05, murderer: 9.96, 
+
+====
+Shell 4.2
+lisa: 18.17, curtain: 17.49, cautious: 15.7, wardrobe: 15.07, jeans: 14.94, alec: 14.94, fugly: 12.32, brian: 12.13, suckish: 11.43, cheeseburger: 10.05, 
+
+====
+Shell 4.3
+alec: 41.07, lisa: 25.96, locker: 19.05, brian: 18.87, bullies: 10.16, crabs: 8.22, bacon: 7.54, november: 7.54, basically: 7.49, miserable: 7.49, 
+
+====
+Shell 4.4
+brian: 29.65, lisa: 16.88, dresser: 14.55, spiders: 14.4, cab: 13.86, loft: 12.49, woah: 12.32, strollers: 11.43, micromanage: 11.43, alec: 11.2, 
+
+====
+Shell 4.5
+storage: 23.56, lockers: 21.83, ber: 21.38, leet: 21.38, locker: 16.33, snitch: 11.43, despicable: 10.05, camera: 9.99, proclaimed: 9.24, congregate: 8.66, 
+
+====
+Shell 4.6
+leet: 64.14, ber: 48.11, leets: 20.54, storage: 11.78, regent: 11.68, bombs: 11.58, extricating: 11.43, bomb: 10.71, nest: 8.22, bers: 7.85, 
+
+====
+Interlude 3½ (Bonus)
+kayden: 98.55, max: 57.51, theo: 45.76, aster: 36.38, vacation: 13.28, abb: 12.47, radiant: 11.43, halogen: 11.43, theos: 11.31, nursery: 10.05, 
+
+====
+Shell 4.7
+lockers: 50.93, locker: 24.49, alley: 18.25, bakuda: 16.8, jeep: 16.43, storage: 14.72, grue: 12.21, millimeter: 11.43, lone: 11.31, abb: 10.91, 
+
+====
+Shell 4.8
+bakuda: 44.81, jeep: 24.65, jihoo: 18.47, thugs: 12.91, park: 11.31, korean: 10.05, pistol: 9.96, laughing: 9.4, shoot: 8.48, gun: 8.42, 
+
+====
+Shell 4.9
+jeep: 41.08, frost: 22.63, ice: 16.85, bakuda: 13.07, driver: 12.91, launcher: 11.09, grue: 10.46, dents: 10.05, explosion: 9.64, rocket: 9.23, 
+
+====
+Shell 4.10
+bakuda: 20.54, capsule: 13.86, pink: 13.14, enunciated: 11.43, knife: 10.94, scissor: 10.05, papercuts: 9.24, pavement: 8.55, distortion: 8.48, ribbon: 8.22, 
+
+====
+Shell 4.11
+lisa: 38.95, brian: 36.38, dad: 15.15, taylor: 14.98, concussion: 13.13, tea: 12.49, codeine: 11.43, papa: 11.43, sunburn: 11.43, bagel: 11.43, 
+
+====
+Interlude 4
+brutus: 326.41, master: 169.26, walkies: 62.89, smells: 50.78, scentless: 35.17, squirrels: 34.3, female: 31.19, angelica: 25.47, pee: 21.65, smell: 19.66, 
+
+====
+Hive 5.1
+kaiser: 31.19, faultline: 27.48, skidmark: 27.32, booth: 23.55, table: 16.73, somers: 15.07, abb: 14.02, purity: 11.92, bakuda: 11.2, military: 10.5, 
+
+====
+Hive 5.2
+hookwolf: 22.59, pub: 20.1, kaiser: 18.71, faultline: 12.49, dogfighting: 12.32, bitch: 10.78, grue: 10.46, buckle: 9.46, bookstore: 9.24, table: 7.93, 
+
+====
+Hive 5.3
+emma: 37.43, alan: 35.2, dad: 21.89, stalker: 21.81, shadow: 15.25, plasti: 11.43, mall: 9.84, battery: 9.55, shopping: 9.01, sales: 8.66, 
+
+====
+Hive 5.4
+principal: 66.88, alan: 52.8, dad: 32.83, knott: 23.09, emma: 22.87, gladly: 21.83, suspension: 20.54, madisons: 20.1, mr: 19.72, emails: 18.07, 
+
+====
+Hive 5.5
+lighthouse: 25.12, van: 11.73, pantyhose: 11.43, shapeshifter: 11.31, brutus: 10.95, bitch: 9.58, kaiser: 8.32, bridge: 8.11, casing: 7.28, gotcha: 7.04, 
+
+====
+Hive 5.6
+newter: 54.21, newters: 15.7, kaiser: 12.48, la: 10.05, bitch: 9.58, drama: 9.03, fenja: 8.83, menja: 8.16, sundancer: 6.99, unarmed: 6.83, 
+
+====
+Hive 5.7
+oni: 58.4, lee: 43.16, lees: 27.71, brutus: 26.29, labyrinth: 23.23, judas: 17.49, checkerboard: 17.15, sundancer: 15.72, sniper: 15.39, rifle: 14.13, 
+
+====
+Hive 5.8
+sundancer: 26.2, newter: 20.65, gloves: 17.1, brutus: 15.33, purses: 15.07, receipts: 15.07, sheet: 14.1, tape: 12.69, plastic: 12.63, bandages: 12.61, 
+
+====
+Hive 5.9
+lung: 80.08, kaiser: 54.07, sundancer: 33.19, fenja: 26.5, judas: 24.98, asphalt: 22.06, blades: 18.61, warehouse: 17.07, lungs: 16.32, angelica: 16.21, 
+
+====
+Hive 5.10
+newter: 41.3, manhole: 27.71, labyrinth: 18.07, whitemore: 17.15, sarcastic: 15.04, bundled: 14.55, bags: 14.2, bitch: 13.18, loft: 12.49, drugged: 11.78, 
+
+====
+Interlude 5
+gregor: 126.08, newter: 56.79, laura: 40.19, doorman: 28.59, faultline: 27.48, sandwich: 24.64, rods: 23.23, bouncer: 22.87, mary: 21.65, dealer: 20.54, 
+
+====
+Tangle 6.1
+katana: 23.09, abb: 18.7, spitfire: 17.6, gregor: 15.76, tenement: 13.86, bat: 12.11, snail: 10.56, military: 10.5, disarming: 10.05, backseat: 9.24, 
+
+====
+Tangle 6.2
+bus: 19.37, article: 16.16, brian: 14.82, temperature: 11.31, brians: 11.26, closet: 10.69, loft: 9.99, condos: 9.24, boxes: 9.01, sweatshirt: 8.53, 
+
+====
+Tangle 6.3
+aisha: 51.2, brian: 49.86, caseworker: 47.64, aishas: 30.78, henderson: 22.87, brians: 20.26, laborn: 20.1, bedroom: 14.31, furniture: 13.7, shelves: 13.13, 
+
+====
+Tangle 6.4
+lisa: 24.67, vote: 22.06, brian: 21.56, alec: 18.67, superbomb: 17.15, boss: 10.69, emma: 10.4, abb: 9.35, medhall: 9.24, considerations: 9.24, 
+
+====
+Tangle 6.5
+foam: 28.62, tank: 19.72, triumph: 18.53, tickets: 18.47, brutus: 17.53, judas: 17.49, grue: 16.27, battery: 13.37, stream: 12.23, whump: 11.43, 
+
+====
+Tangle 6.6
+armsmaster: 80.54, halberd: 45.13, pole: 39.34, velocity: 35.38, flail: 30.32, patio: 23.9, grappling: 21.55, hook: 19.98, militia: 16.64, reeled: 16.64, 
+
+====
+Tangle 6.7
+dauntless: 100.87, arclance: 34.3, armsmaster: 32.5, garage: 24.95, sledgehammer: 24.65, circus: 22.61, judas: 22.48, halberd: 18.05, parking: 16.23, forcefield: 15.89, 
+
+====
+Tangle 6.8
+limousine: 32.33, coil: 23.78, vans: 14.13, trickster: 12.98, yourselves: 12.49, animals: 11.33, docks: 11.07, probability: 10.05, purchasing: 10.05, crime: 9.44, 
+
+====
+Tangle 6.9
+envelope: 45.25, dad: 26.1, lisa: 12.98, taylor: 12.98, militia: 12.1, write: 11.09, friendship: 10.33, bullying: 10.33, marker: 9.96, school: 9.74, 
+
+====
+Interlude 6
+paige: 316.5, bakuda: 87.74, paiges: 51.45, mcabee: 40.02, birdy: 34.3, restraints: 29.09, strip: 28.89, strips: 27.48, lung: 26.3, foam: 23.85, 
+
+====
+Buzz 7.1
+alec: 37.34, brian: 33.69, lisa: 18.17, heartbreaker: 15.39, couch: 15.11, sparring: 10.24, vote: 9.46, kick: 9.17, brothers: 9.03, sisters: 7.74, 
+
+====
+Buzz 7.2
+sirius: 49.91, angelica: 25.47, brutus: 17.53, judas: 17.49, dogs: 16.52, fuckers: 15.39, dog: 14.84, lab: 14.1, rollo: 13.86, bitch: 13.78, 
+
+====
+Buzz 7.3
+tom: 65.31, heil: 17.15, bottle: 15.49, bitchs: 14.91, dogs: 14.54, bitch: 14.38, dog: 12.22, hitler: 11.43, racists: 11.43, toms: 11.43, 
+
+====
+Buzz 7.4
+anders: 45.18, brian: 29.65, email: 24.59, alec: 20.54, kaiser: 18.71, max: 16.43, richard: 15.07, lisa: 14.28, medhall: 13.86, zip: 12.99, 
+
+====
+Buzz 7.5
+brian: 29.65, bus: 29.05, lisa: 14.28, brians: 11.26, alec: 11.2, sophia: 10.81, alecs: 9.46, apartment: 8.83, bulkier: 8.66, empire: 7.92, 
+
+====
+Buzz 7.6
+sophia: 34.59, brian: 33.69, bookstore: 23.09, books: 19.21, bus: 16.95, store: 16.43, ear: 13.01, book: 12.92, anders: 12.32, fantasy: 11.78, 
+
+====
+Buzz 7.7
+purity: 31.0, brian: 26.95, ambulance: 23.23, gurney: 22.87, cameraman: 20.54, camera: 17.12, hookwolf: 16.43, stormtiger: 14.08, fog: 12.8, kaiser: 12.48, 
+
+====
+Buzz 7.8
+cricket: 83.11, stormtiger: 59.84, hookwolf: 47.23, ambulance: 26.55, grue: 23.83, scythes: 23.09, scythe: 18.19, darkness: 14.6, radar: 14.53, coils: 14.27, 
+
+====
+Buzz 7.9
+angelica: 34.74, rune: 23.9, purity: 19.08, brutus: 17.53, judas: 17.49, rooftop: 13.88, debris: 13.88, runes: 13.86, fog: 12.8, latched: 10.24, 
+
+====
+Buzz 7.10
+purity: 40.54, judas: 24.98, cloak: 23.5, night: 17.33, fog: 17.07, fogs: 15.07, canister: 14.42, alley: 14.2, grenade: 13.51, baton: 13.51, 
+
+====
+Buzz 7.11
+coil: 29.95, candy: 24.07, walkway: 22.62, soldier: 18.03, hatch: 14.55, empire: 13.86, numbers: 11.59, pearse: 11.43, crates: 9.7, travelers: 9.64, 
+
+====
+Buzz 7.12
+siren: 13.86, coil: 11.45, uncles: 10.05, character: 8.02, loft: 7.49, hatch: 7.28, dinah: 7.2, weekend: 7.04, amber: 7.04, angelica: 6.95, 
+
+====
+Interlude 7
+hannah: 96.99, hana: 68.6, village: 57.17, colin: 51.22, fighters: 43.18, kovan: 40.02, guerrilla: 23.09, turkish: 22.87, woods: 22.63, dreamed: 20.54, 
+
+====
+Extermination 8.1
+parking: 14.2, legend: 12.47, bostons: 11.43, honking: 10.05, eidolon: 9.54, awestruck: 9.24, skintight: 9.13, bastion: 8.66, alexandria: 8.4, bruiser: 8.22, 
+
+====
+Extermination 8.2
+cd: 18.19, armband: 17.49, aquifier: 17.15, leviathan: 15.66, legend: 15.58, water: 15.22, rain: 12.36, hydrokinetic: 11.43, tidal: 11.31, waves: 10.59, 
+
+====
+Interlude 8 (Bonus)
+tasha: 85.76, enforcer: 47.1, cashier: 35.17, enforcers: 21.65, boyfriend: 21.01, leviathan: 20.27, daniella: 17.15, tissues: 16.64, boardwalk: 16.43, lisa: 15.58, 
+
+====
+Extermination 8.3
+cd: 87.3, leviathan: 53.43, shielder: 43.31, deceased: 40.97, armband: 39.97, leviathans: 33.39, afterimage: 28.75, tail: 27.59, bubble: 21.15, water: 19.17, 
+
+====
+Extermination 8.4
+armsmaster: 62.17, leviathan: 58.96, leviathans: 52.47, carport: 51.45, halberd: 51.15, armsmasters: 28.89, afterimage: 24.65, grappling: 24.62, claw: 22.95, cc: 21.65, 
+
+====
+Extermination 8.5
+laserdream: 90.94, leviathan: 62.64, bw: 50.24, leviathans: 45.31, halberd: 45.13, water: 38.33, afterimage: 32.86, deceased: 30.73, armband: 29.98, scion: 28.26, 
+
+====
+Extermination 8.6
+curtain: 29.98, manacle: 25.12, keys: 24.64, clipboard: 19.63, enclosure: 19.63, roaches: 15.39, patients: 14.13, keychain: 13.86, nurses: 13.28, bed: 12.4, 
+
+====
+Extermination 8.7
+armsmaster: 63.58, legend: 40.51, militia: 33.27, armband: 29.98, deceased: 23.9, cc: 21.65, sophia: 21.62, miss: 19.36, emma: 14.56, cd: 14.55, 
+
+====
+Extermination 8.8
+memorial: 31.4, monument: 25.12, falcon: 23.09, obelisk: 11.43, chisel: 11.43, funeral: 11.31, marble: 11.31, names: 11.09, letters: 9.66, hill: 9.54, 
+
+====
+Interlude 8
+pitter: 69.28, mr: 35.05, pet: 25.11, trickster: 22.72, coil: 22.02, creep: 19.91, candy: 18.05, sir: 17.77, travelers: 17.67, noelle: 15.11, 
+
+====
+Sentinel 9.1
+weld: 49.84, maam: 25.22, armstrong: 23.09, helicopter: 22.06, clockblocker: 21.09, director: 20.3, airport: 18.47, likable: 17.32, classifications: 16.43, boston: 16.21, 
+
+====
+Sentinel 9.2
+flechette: 146.99, stalker: 73.23, shadow: 56.93, arbalest: 49.02, gorillas: 34.3, gorilla: 29.1, parian: 27.87, sabah: 25.12, bolt: 24.76, rooftop: 23.14, 
+
+====
+Sentinel 9.3
+weld: 47.99, clockblocker: 45.44, vista: 35.34, genesis: 26.04, dennis: 25.98, glory: 24.72, trickster: 21.09, garth: 17.15, professor: 14.55, class: 14.13, 
+
+====
+Sentinel 9.4
+kid: 53.73, chariot: 48.14, win: 47.14, weld: 40.61, chariots: 36.97, clockblocker: 29.21, vista: 24.09, ballistic: 22.96, flechette: 19.46, trickster: 16.23, 
+
+====
+Sentinel 9.5
+vista: 83.52, flechette: 54.04, sophia: 54.04, weld: 35.07, piggot: 27.4, gallant: 24.98, chariot: 18.05, console: 16.6, scar: 16.45, rabbit: 16.43, 
+
+====
+Sentinel 9.6
+stalker: 81.02, shadow: 77.26, crossbow: 32.9, skitter: 25.82, bolt: 22.51, fence: 22.51, state: 17.98, emma: 16.64, stalkers: 16.33, troops: 14.72, 
+
+====
+Parasite 10.1
+stalker: 26.49, shadow: 25.41, generator: 17.67, stalkers: 16.33, apartment: 15.89, kitchen: 14.69, webs: 14.55, angelicas: 14.08, angelica: 13.89, flashlight: 13.66, 
+
+====
+Parasite 10.2
+brian: 33.69, stalker: 28.05, looters: 22.63, alec: 22.4, weld: 22.15, lisa: 22.07, aisha: 19.2, shadow: 16.26, dart: 15.76, tranquilized: 12.32, 
+
+====
+Parasite 10.3
+weld: 33.22, flechette: 28.1, elevator: 23.5, sparks: 22.13, stalker: 20.26, shadow: 17.28, horned: 16.6, abdomens: 16.43, foam: 14.31, kid: 14.09, 
+
+====
+Parasite 10.4
+weld: 33.22, gun: 18.52, imp: 17.16, flamethrower: 15.7, regent: 14.18, tattletale: 11.24, nonlethal: 10.89, dragon: 10.1, spearlike: 10.05, axe: 9.96, 
+
+====
+Parasite 10.5
+dragon: 42.63, foam: 36.57, shop: 21.15, lobby: 21.06, vapor: 20.49, weld: 20.3, turrets: 19.91, spray: 19.12, streams: 18.71, dragons: 16.64, 
+
+====
+Parasite 10.6
+pet: 25.11, baton: 24.76, coil: 16.73, dinah: 14.4, grue: 13.37, smoke: 12.68, decimal: 12.32, regent: 11.68, barker: 11.31, grazed: 10.91, 
+
+====
+Interlude 10
+emma: 45.75, sophia: 41.07, stalker: 32.72, shadow: 31.51, steven: 28.59, terry: 25.98, regent: 25.03, stonemast: 22.87, texts: 22.62, stalkers: 21.77, 
+
+====
+Interlude 10.5 (Bonus)
+marquis: 47.13, prisoner: 42.76, agent: 29.05, andrew: 28.75, data: 27.95, programs: 26.55, dragon: 25.8, lung: 25.1, cawthorne: 23.09, trawler: 22.87, 
+
+====
+Infestation 11.1
+terrariums: 29.1, coil: 17.61, boardwalk: 16.43, beach: 15.76, coils: 14.27, dinah: 12.96, nightmare: 11.54, bokor: 11.43, utilities: 11.43, glasses: 10.59, 
+
+====
+Infestation 11.2
+truck: 35.07, ladybugs: 23.09, crowd: 22.42, supplies: 20.76, boxes: 20.26, crates: 16.16, attract: 15.7, merchants: 14.94, box: 14.46, coils: 14.27, 
+
+====
+Infestation 11.3
+tea: 27.48, matches: 24.65, merchants: 22.4, gasoline: 20.1, swarm: 17.44, uncle: 17.07, sierra: 16.95, bryce: 16.6, mold: 13.66, brother: 12.64, 
+
+====
+Infestation 11.4
+senegal: 40.01, brooks: 34.67, lisa: 33.75, marker: 26.55, senegals: 18.47, merchants: 16.8, escorts: 16.43, minor: 11.58, dimitri: 11.43, desk: 10.08, 
+
+====
+Infestation 11.5
+senegal: 40.01, brooks: 37.82, lisa: 35.05, skidmark: 30.73, mall: 29.51, bryce: 26.55, minor: 24.44, jaw: 20.67, crowd: 19.73, pills: 17.07, 
+
+====
+Infestation 11.6
+skidmark: 54.63, bryce: 36.51, doug: 34.3, skidmarks: 28.16, lisa: 25.96, merchants: 24.27, ring: 23.68, rick: 22.87, senegal: 21.83, charlotte: 18.71, 
+
+====
+Infestation 11.7
+trainwreck: 66.88, client: 56.43, skidmark: 54.63, brooks: 50.43, bryce: 39.83, newter: 38.72, gregor: 34.67, maze: 33.19, thomas: 32.32, labyrinth: 30.98, 
+
+====
+Infestation 11.8
+sierra: 58.11, bryce: 49.79, charlotte: 39.51, lisa: 38.95, q: 15.7, dr: 14.55, brother: 14.44, bryces: 13.86, cooler: 10.24, grandpa: 10.05, 
+
+====
+Interlude 11a
+lucy: 64.66, foster: 52.33, angelica: 41.68, dogs: 36.34, siberian: 36.29, bitch: 33.55, dog: 27.06, bentley: 25.73, howl: 23.23, angelicas: 21.12, 
+
+====
+Interlude 11b (Anniversary Bonus)
+theo: 197.11, aster: 65.48, jack: 58.22, sir: 50.78, kayden: 45.76, theos: 26.4, baby: 20.79, asters: 17.32, diaper: 15.07, bathroom: 13.25, 
+
+====
+Interlude 11c (Anniversary Bonus)
+elle: 175.5, burnscar: 107.34, shamrock: 67.88, spitfire: 56.32, gregor: 40.98, palanquin: 35.17, faultline: 34.97, statue: 34.67, fireball: 24.64, mimi: 22.87, 
+
+====
+Interlude 11d
+colin: 153.65, mannequin: 49.93, mannequins: 36.53, colins: 19.63, guilddragon: 17.15, clink: 15.7, blade: 14.69, vent: 13.61, blades: 11.84, phqarmsmaster: 11.43, 
+
+====
+Interlude 11e (Anniversary Bonus)
+bradley: 62.89, menja: 59.87, hookwolf: 59.55, cricket: 49.25, stormtiger: 38.72, glass: 33.17, crickets: 23.09, othala: 21.55, leah: 20.1, shatterbird: 18.89, 
+
+====
+Interlude 11f (Anniversary Bonus)
+trickster: 43.81, pet: 38.81, candy: 36.11, coil: 35.23, sundancer: 26.2, dinah: 25.93, noelle: 24.55, vault: 18.8, terminus: 17.32, crawler: 16.85, 
+
+====
+Interlude 11g (Anniversary Bonus)
+cherie: 32.86, jeep: 28.75, daddy: 22.61, alec: 22.4, music: 22.31, kooky: 17.15, guillaume: 17.15, love: 16.72, montreal: 15.07, emotions: 14.02, 
+
+====
+Interlude 11h
+amy: 238.52, victoria: 102.89, carol: 76.39, bonesaw: 65.03, pagoda: 62.89, mark: 55.27, hack: 54.95, marquis: 38.82, rat: 38.72, amys: 27.32, 
+
+====
+Plague 12.1
+charlotte: 51.99, sierra: 41.16, rats: 38.72, cube: 19.91, rodents: 15.08, coils: 12.84, coil: 12.33, house: 11.63, rat: 10.33, hookwolf: 10.27, 
+
+====
+Plague 12.2
+boat: 73.49, hookwolf: 67.76, skidmark: 30.73, faultline: 27.48, coil: 25.54, purity: 23.85, squealer: 23.55, militia: 19.66, trickster: 17.85, boats: 17.6, 
+
+====
+Plague 12.3
+trickster: 66.53, noelle: 32.1, chess: 18.86, sundancer: 17.47, shogi: 17.15, ballistic: 15.89, grue: 15.11, regent: 15.02, genesis: 14.02, garage: 13.86, 
+
+====
+Plague 12.4
+jack: 55.45, cherish: 38.4, tests: 36.76, bonesaw: 28.73, test: 25.93, candidates: 25.44, siberian: 22.46, tattoos: 16.64, cherishs: 15.04, regent: 13.35, 
+
+====
+Plague 12.5
+fence: 18.01, dad: 14.31, paramedics: 12.93, glass: 12.22, bedroom: 11.92, warn: 9.99, jack: 9.7, clock: 9.66, save: 8.74, write: 8.32, 
+
+====
+Plague 12.6
+ambulances: 32.74, hydrogen: 28.59, paramedics: 25.86, peroxide: 25.12, ambulance: 23.23, iodine: 22.87, markers: 21.65, paramedic: 20.54, pens: 19.63, wounds: 18.81, 
+
+====
+Plague 12.7
+mannequin: 51.4, blades: 35.53, blade: 32.31, chain: 31.41, silk: 23.37, glue: 22.63, baton: 22.51, retract: 20.1, factory: 19.39, spinning: 17.76, 
+
+====
+Plague 12.8
+sierra: 53.27, rice: 18.86, dustpan: 17.15, cupboard: 16.43, mannequin: 16.15, shards: 15.13, propane: 13.86, breakfast: 12.91, broom: 11.43, emanation: 11.43, 
+
+====
+Interlude 12
+siberian: 57.03, crawler: 46.33, jack: 42.98, cherish: 40.54, bonesaw: 37.81, aircraft: 30.73, candidate: 23.9, mannequin: 22.03, skidmarks: 21.12, shatterbird: 20.46, 
+
+====
+Interlude 12½ (Donation Bonus)
+jamie: 221.05, madcap: 171.51, sample: 70.65, doctor: 54.99, jamies: 40.02, graph: 40.02, p: 39.25, barn: 36.95, battery: 36.3, r: 27.08, 
+
+====
+Snare 13.1
+brian: 35.04, tester: 30.14, candidates: 25.44, genesis: 20.03, noelle: 17.0, trickster: 16.23, mannequin: 16.15, aisha: 14.93, coil: 14.09, lisa: 11.68, 
+
+====
+Snare 13.2
+lucy: 55.42, candidates: 25.44, amy: 22.13, bitch: 16.17, mannequin: 16.15, bentley: 15.83, panacea: 15.23, sirius: 13.86, candidate: 13.66, grue: 12.21, 
+
+====
+Interlude 13½ (Donation Bonus)
+sam: 82.28, aisha: 76.81, celia: 40.02, bonesaw: 27.22, mom: 22.7, cherish: 21.34, papers: 17.29, jennifer: 17.15, jen: 17.15, jonathan: 17.15, 
+
+====
+Snare 13.3
+mannequin: 66.08, sirius: 47.13, gas: 45.85, bastard: 34.71, mannequins: 25.11, grue: 23.83, bentley: 17.81, bitch: 17.37, lucys: 13.86, lucy: 13.86, 
+
+====
+Snare 13.4
+burnscar: 52.58, mannequin: 26.43, grue: 22.67, genesis: 20.03, flames: 14.02, burnscars: 13.66, charlotte: 10.4, bitch: 10.18, bunk: 9.7, sirius: 8.32, 
+
+====
+Snare 13.5
+genesis: 14.02, sirius: 13.86, trickster: 12.98, fires: 12.11, leggings: 12.04, sundancer: 10.48, slug: 10.05, cutters: 10.05, bentley: 9.9, ribs: 9.9, 
+
+====
+Snare 13.6
+cherish: 66.14, trickster: 50.3, shatterbird: 44.07, walkie: 43.31, talkie: 40.19, ballistic: 38.85, binoculars: 38.72, crawler: 35.8, siberian: 32.83, bonesaw: 28.73, 
+
+====
+Snare 13.7
+cherish: 53.34, trickster: 29.21, coil: 12.33, militia: 12.1, pact: 9.24, cherishs: 9.03, blames: 8.66, morality: 8.22, prisoner: 8.02, coastline: 7.54, 
+
+====
+Snare 13.8
+trickster: 35.7, purity: 23.85, shatterbird: 22.03, bonesaw: 21.17, freezer: 19.63, nine: 19.33, dolltown: 15.08, crawler: 14.74, genesis: 14.02, sundancer: 13.97, 
+
+====
+Snare 13.9
+bonesaw: 72.59, dinosaur: 51.45, gemma: 40.02, corona: 39.25, parian: 31.15, stuffed: 29.98, brian: 25.6, bonesaws: 22.51, aerosol: 20.1, tubes: 18.47, 
+
+====
+Snare 13.10
+couch: 11.33, itchy: 10.05, teabags: 10.05, brian: 9.43, sleeping: 9.03, brians: 9.01, anxieties: 8.66, contacts: 7.62, awake: 7.38, misery: 7.28, 
+
+====
+Interlude 13
+emily: 54.95, legend: 35.84, piggot: 25.11, siberian: 19.01, handwriting: 16.43, clockblocker: 16.23, consoles: 13.86, flechette: 12.97, weld: 12.92, nine: 12.15, 
+
+====
+Prey 14.1
+lisa: 45.44, alec: 37.34, brian: 36.38, aisha: 29.87, cherish: 23.47, stove: 20.49, siberian: 15.55, bitch: 14.38, rape: 13.86, breakfasts: 11.43, 
+
+====
+Prey 14.2
+amy: 145.08, siberian: 108.87, siberians: 30.98, amys: 27.32, binoculars: 21.12, mall: 17.21, decoys: 15.23, projection: 13.28, trickster: 12.98, decoy: 12.91, 
+
+====
+Prey 14.3
+amy: 103.28, siberian: 46.66, sirius: 27.73, truck: 27.69, trickster: 21.09, chariot: 21.06, sundancer: 19.21, bentley: 15.83, siberians: 15.49, glory: 14.13, 
+
+====
+Prey 14.4
+crawler: 46.33, amy: 27.05, genesis: 26.04, ballistic: 24.72, cache: 17.6, battery: 17.19, relay: 15.49, bombing: 15.08, sirius: 13.86, imp: 12.87, 
+
+====
+Prey 14.5
+weld: 68.3, cache: 49.28, crawler: 48.44, mannequin: 46.99, crawlers: 22.62, grenade: 22.51, beetle: 18.38, amy: 17.21, car: 16.14, cars: 15.9, 
+
+====
+Prey 14.6
+amy: 76.23, glory: 33.55, victoria: 29.87, acid: 28.84, crawler: 27.38, enzymes: 25.12, atlas: 24.76, beetle: 23.63, prism: 15.76, weld: 14.77, 
+
+====
+Prey 14.7
+legend: 57.65, siberian: 48.39, library: 39.12, shelter: 28.26, truck: 25.84, siberians: 23.23, atlas: 20.26, creator: 16.96, bonesaw: 16.64, laser: 15.39, 
+
+====
+Prey 14.8
+miasma: 66.73, trickster: 27.59, vapor: 27.32, atlas: 27.02, rooftop: 23.14, sundancer: 22.71, legend: 21.81, mist: 15.98, bentley: 15.83, hallucinations: 15.7, 
+
+====
+Prey 14.9
+miasma: 43.18, cherish: 21.34, jack: 20.79, pursuer: 20.1, agnosia: 18.47, mist: 18.26, traitor: 16.96, decoys: 15.23, grue: 14.53, atlas: 13.51, 
+
+====
+Prey 14.10
+jack: 55.45, amelia: 38.72, bonesaw: 34.78, panacea: 28.76, slasher: 28.59, chemist: 28.59, miasma: 19.63, healer: 18.91, bonesaws: 18.01, panaceas: 17.07, 
+
+====
+Prey 14.11
+cherish: 40.54, cure: 28.16, jack: 24.95, atlas: 24.76, curing: 22.87, bonesaw: 18.15, ship: 17.29, siberian: 17.28, graveyard: 16.6, bentley: 15.83, 
+
+====
+Interlude 14
+yan: 145.69, sierra: 133.17, jay: 80.04, sugita: 57.17, charlotte: 49.91, bryce: 33.19, skitter: 30.52, soup: 23.9, kids: 19.49, beetle: 18.38, 
+
+====
+Interlude 14.5 (Bonus Interlude)
+legend: 49.86, doctor: 36.66, william: 30.32, alexandria: 27.99, cauldron: 21.42, eidolon: 20.67, kid: 20.26, manton: 18.38, win: 17.68, conducting: 17.32, 
+
+====
+Colony 15.1
+barker: 56.57, biter: 40.01, alec: 22.4, bitch: 22.16, barkers: 20.1, brian: 17.52, hamburgers: 17.15, greyhounds: 17.15, lisa: 16.88, bitchs: 13.25, 
+
+====
+Interlude 15 (Donation Bonus)
+brandish: 160.05, carol: 152.78, amy: 105.73, marquis: 102.59, sarah: 73.94, photon: 63.04, lady: 51.07, manpower: 44.13, victoria: 36.51, lightstar: 35.17, 
+
+====
+Colony 15.2
+shatterbird: 26.76, fog: 23.47, regent: 21.69, rune: 20.49, imp: 20.38, atlas: 15.76, chosen: 15.43, shards: 12.97, night: 12.84, victor: 12.04, 
+
+====
+Colony 15.3
+victor: 93.28, othala: 55.4, rune: 20.49, heeb: 17.15, victors: 16.43, regent: 15.02, imp: 13.94, cousin: 13.28, tattletale: 12.36, relationship: 11.73, 
+
+====
+Interlude 15 (Donation Bonus #2)
+aisha: 34.14, chicken: 15.76, symbols: 15.39, brian: 13.48, taylor: 12.98, synergize: 11.43, marker: 9.96, anxiety: 9.84, bag: 9.26, quirk: 9.24, 
+
+====
+Colony 15.4
+coil: 22.02, genesis: 20.03, trickster: 19.47, aisha: 19.2, brian: 18.87, travelers: 12.85, ballistic: 12.36, sundancer: 12.23, scare: 10.53, coils: 9.99, 
+
+====
+Colony 15.5
+ballistic: 28.25, victor: 21.06, dolltown: 18.86, watchdog: 17.15, noelle: 13.22, coworkers: 12.93, travelers: 12.85, coworker: 12.32, coil: 11.45, coils: 11.41, 
+
+====
+Colony 15.6
+flechette: 79.98, parian: 60.66, therapy: 18.91, spike: 18.71, armsmaster: 18.37, atlas: 15.76, dolltown: 15.08, ballistic: 12.36, panacea: 11.84, slater: 11.43, 
+
+====
+Colony 15.7
+brooks: 66.19, bryce: 43.15, sierra: 41.16, socket: 20.61, rotary: 17.15, shavings: 15.07, clone: 13.14, charlotte: 12.48, relaxant: 11.43, dolltown: 11.31, 
+
+====
+Interlude 15 (Donation Bonus #3)
+rebecca: 100.48, alexandria: 68.58, doctor: 59.57, legend: 46.74, eidolon: 41.34, manton: 28.89, siberian: 25.92, kaveh: 22.87, hero: 21.38, th: 20.19, 
+
+====
+Colony 15.8
+trickster: 60.04, rory: 35.17, mayor: 27.21, genesis: 26.04, atlas: 22.51, clone: 21.91, girlfriend: 14.75, triumph: 13.89, son: 12.91, swarm: 11.63, 
+
+====
+Colony 15.9
+prism: 59.89, triumph: 53.26, mayor: 38.1, triumphs: 33.94, consolidating: 20.54, tripwire: 20.54, atlas: 20.26, duplicates: 18.91, epipen: 17.15, bugs: 16.26, 
+
+====
+Colony 15.10
+atlas: 29.27, sling: 27.71, mayors: 21.12, coil: 14.97, trickster: 14.6, genesis: 14.02, dad: 11.79, treeline: 10.05, statuette: 10.05, tea: 9.99, 
+
+====
+Interlude 15
+triumph: 67.16, militia: 33.27, assault: 32.07, prism: 31.52, ursa: 29.87, miss: 22.73, defiant: 22.26, armsmaster: 16.96, director: 16.92, dragon: 16.83, 
+
+====
+Monarch 16.1
+drones: 32.07, drone: 16.96, dragon: 16.83, comply: 15.07, beer: 14.55, grue: 14.53, coil: 13.21, pallet: 12.99, electrical: 12.04, darkness: 10.76, 
+
+====
+Monarch 16.2
+trickster: 50.3, wheel: 42.02, suits: 27.49, dragon: 22.44, grue: 22.09, swap: 22.06, sundancer: 17.47, shatterbird: 17.31, director: 16.92, assault: 16.8, 
+
+====
+Interlude 16 (Donation Bonus)
+evan: 108.62, rinke: 91.47, holler: 85.76, tieu: 80.04, squad: 62.48, coldiron: 34.3, lady: 33.31, radio: 31.48, chopper: 28.59, shane: 28.59, 
+
+====
+Monarch 16.3
+director: 49.06, trickster: 27.59, torture: 19.79, cawthorne: 18.47, sock: 18.19, regent: 17.52, suits: 16.8, piggot: 15.98, hostage: 14.93, tattletale: 14.61, 
+
+====
+Monarch 16.4
+suit: 56.89, biter: 50.93, barker: 49.02, suits: 29.02, shatterbird: 26.76, bentley: 25.73, vet: 17.07, train: 17.0, bitch: 13.18, glass: 13.09, 
+
+====
+Monarch 16.5
+azazel: 103.06, drone: 39.57, drones: 32.07, bentley: 25.73, foam: 23.85, suit: 21.58, imp: 20.38, hedge: 20.1, branches: 18.91, hedges: 18.47, 
+
+====
+Monarch 16.6
+sierra: 24.21, imp: 18.23, charlotte: 16.64, grue: 15.69, celebrate: 15.08, drones: 13.36, pork: 12.99, party: 12.02, dragon: 11.22, trickster: 9.74, 
+
+====
+Interlude 16 (Donation Bonus #2)
+sheriff: 50.24, code: 43.03, hookwolf: 30.8, colin: 27.32, data: 19.21, damsel: 18.47, ai: 17.21, goering: 17.15, edict: 17.15, licit: 17.15, 
+
+====
+Monarch 16.7
+kurt: 98.58, lacey: 65.72, beer: 29.1, alexander: 27.71, dad: 26.94, christner: 17.32, candidates: 16.96, breakfast: 12.91, shower: 11.88, drunken: 11.43, 
+
+====
+Monarch 16.8
+mayor: 51.7, grove: 38.98, circus: 36.75, auditorium: 30.17, chariot: 24.07, aisle: 23.55, padillo: 23.09, coil: 22.9, christner: 21.65, leet: 21.38, 
+
+====
+Monarch 16.9
+paramedic: 32.86, dad: 16.84, reporters: 16.33, mayor: 16.33, commander: 14.55, candidates: 14.13, aisles: 13.86, coil: 12.33, lacey: 12.32, mosquito: 12.32, 
+
+====
+Monarch 16.10
+calvert: 44.13, padillo: 27.71, trickster: 27.59, director: 27.07, thomas: 22.62, circus: 22.61, travelers: 17.67, grove: 17.32, ballistic: 15.89, coil: 15.85, 
+
+====
+Interlude 16 (Donation Bonus #3)
+marquis: 152.49, amelia: 137.27, glaistig: 29.4, cell: 28.29, uaine: 26.73, w: 26.4, cinderhands: 25.98, block: 23.26, lung: 21.51, lieutenants: 18.05, 
+
+====
+Monarch 16.11
+calvert: 75.65, fence: 49.53, grenades: 42.76, calverts: 37.71, molotov: 30.14, soldiers: 27.02, bullets: 26.65, decoys: 25.39, soldier: 22.04, thomas: 19.39, 
+
+====
+Monarch 16.12
+calvert: 66.19, mortars: 45.21, dinah: 40.33, mortar: 37.71, calverts: 30.17, soldiers: 28.25, box: 19.27, bentley: 17.81, doppleganger: 17.15, squads: 15.76, 
+
+====
+Monarch 16.13
+calvert: 151.3, calverts: 30.17, grue: 22.09, imp: 20.38, soldiers: 19.65, raccoon: 17.15, trickster: 16.23, dinah: 15.84, tattletale: 14.99, travelers: 14.46, 
+
+====
+Migration 17.1
+krouse: 181.6, luke: 105.59, cody: 92.19, jess: 76.39, marissa: 69.7, noelle: 52.87, chris: 47.1, luggage: 43.18, marissas: 24.65, oliver: 24.49, 
+
+====
+Migration 17.2
+krouse: 196.99, marissa: 82.98, luke: 73.92, jess: 72.75, simurgh: 69.06, cody: 40.97, snow: 40.01, noelle: 33.99, halo: 22.62, ice: 21.06, 
+
+====
+Migration 17.3
+krouse: 206.22, jess: 134.59, cody: 133.16, marissa: 109.53, oliver: 92.52, luke: 84.48, noelle: 47.21, bird: 21.79, simurgh: 19.27, noelles: 17.21, 
+
+====
+Migration 17.4
+gwerrus: 188.66, krouse: 187.76, egesa: 137.21, matryoshka: 83.13, marissa: 76.34, cody: 44.39, egesas: 34.3, scythe: 32.74, myrddin: 30.98, noelle: 30.21, 
+
+====
+Migration 17.5
+krouse: 215.46, jess: 160.05, cody: 139.99, luke: 63.36, marissa: 49.79, suitcase: 24.65, oliver: 24.49, blah: 22.87, noelle: 22.66, papers: 17.29, 
+
+====
+Migration 17.6
+krouse: 363.2, cody: 150.24, marissa: 109.53, luke: 105.59, jess: 94.58, noelle: 56.65, oliver: 48.98, quarantine: 44.26, mixture: 36.04, car: 34.58, 
+
+====
+Migration 17.7
+krouse: 335.5, cody: 150.24, luke: 112.63, noelle: 84.98, jess: 69.11, marissa: 56.43, myrddin: 38.72, lantern: 25.46, officer: 24.59, noelles: 24.59, 
+
+====
+Migration 17.8
+krouse: 187.76, trickster: 110.34, perdition: 102.91, accord: 96.48, cody: 58.05, noelle: 33.99, jess: 32.74, cigarette: 32.66, oliver: 29.93, marissa: 23.23, 
+
+====
+Queen 18.1
+dinah: 66.26, rachel: 15.39, percent: 14.75, inhalation: 13.86, medhall: 13.86, doctor: 12.22, withdrawal: 11.78, vault: 11.75, grue: 11.62, cravings: 11.43, 
+
+====
+Queen 18.2
+ballistic: 31.78, parian: 21.31, noelle: 18.88, dinah: 17.28, braid: 12.93, pretended: 12.61, paraplegic: 11.43, penguin: 11.43, dachshund: 11.43, disagreeable: 11.43, 
+
+====
+Interlude 18 (Donation Bonus #1)
+kevin: 217.07, duke: 130.62, lisette: 101.61, golden: 50.66, rain: 24.72, umbrella: 18.19, dukes: 17.15, braver: 15.07, eaves: 13.86, river: 13.66, 
+
+====
+Queen 18.3
+militia: 63.52, clockblocker: 42.19, miss: 36.2, triumph: 18.53, van: 13.69, noelle: 13.22, assault: 12.22, maniacal: 11.43, weld: 11.07, flechette: 10.81, 
+
+====
+Queen 18.4
+militia: 60.49, triumph: 46.32, miss: 34.52, deputy: 29.1, eidolon: 28.62, conference: 20.49, director: 20.3, noelle: 18.88, s: 18.46, class: 18.37, 
+
+====
+Interlude 18 (Donation Bonus #2)
+justin: 424.41, kayden: 246.39, theo: 165.43, dorothy: 90.43, peter: 64.66, geoff: 47.1, aster: 40.01, trigger: 36.55, torture: 25.44, wysocki: 22.87, 
+
+====
+Queen 18.5
+militia: 25.71, noelle: 24.55, raymancer: 23.55, vistas: 20.65, miss: 15.15, vista: 14.46, armband: 12.49, wonton: 11.43, assault: 10.69, tecton: 10.53, 
+
+====
+Queen 18.6
+raymancer: 51.03, tecton: 44.23, vista: 38.55, armband: 37.47, grace: 34.14, radioactive: 32.74, wanton: 23.63, raymancers: 22.87, decontamination: 22.87, noelle: 20.77, 
+
+====
+Interlude 18 (Donation Bonus #3)
+jessica: 320.39, sveta: 79.19, lily: 62.8, victoria: 33.19, dennis: 30.32, june: 28.37, vista: 27.3, patients: 25.44, blinks: 23.09, th: 23.07, 
+
+====
+Queen 18.7
+eidolon: 82.67, noelle: 69.87, leet: 69.49, noelles: 29.51, clones: 28.75, gravity: 27.4, eidolons: 24.98, circus: 22.61, vista: 22.49, grace: 21.34, 
+
+====
+Queen 18.8
+noelle: 75.54, steph: 57.17, clones: 45.18, buck: 43.31, grace: 38.4, tecton: 37.91, chronicler: 35.17, clone: 28.48, bentley: 27.71, circus: 19.79, 
+
+====
+Interlude 18 (Donation Bonus #4)
+faultline: 199.85, shamrock: 101.82, elle: 73.89, gregor: 66.19, spitfire: 63.36, maddie: 57.17, labyrinth: 54.21, newter: 49.05, hotel: 39.25, jeremy: 28.59, 
+
+====
+Interlude 18
+noelle: 98.2, trickster: 53.55, eidolon: 39.75, cody: 34.14, jess: 32.74, dungeon: 32.33, hag: 31.4, krouse: 27.7, orbs: 25.22, marissa: 23.23, 
+
+====
+Scourge 19.1
+noelle: 43.43, militia: 40.83, weld: 38.76, echidna: 35.8, clones: 24.64, miss: 22.73, skitter: 22.69, walkway: 22.62, rachel: 20.51, tattletale: 18.36, 
+
+====
+Scourge 19.2
+scapegoat: 87.3, militia: 36.3, weld: 25.84, grace: 23.47, miss: 22.73, calvert: 18.91, wanton: 15.76, eidolon: 14.31, clone: 13.14, thomas: 12.93, 
+
+====
+Scourge 19.3
+tecton: 69.5, scrub: 24.95, wanton: 23.63, gully: 23.23, shunting: 17.15, earths: 16.64, tattletale: 13.11, myrddin: 12.91, earth: 12.48, passenger: 12.36, 
+
+====
+Interlude 19 (Donation Bonus #1)
+rey: 320.15, morrgan: 74.32, accord: 60.94, samples: 57.51, homunculus: 57.17, damsel: 41.57, bonesaw: 40.83, defiant: 34.98, spear: 30.8, lab: 30.55, 
+
+====
+Scourge 19.4
+gully: 86.3, myrddin: 43.89, militia: 37.81, scapegoat: 32.74, wanton: 26.26, miss: 23.57, van: 23.47, echidna: 21.06, legend: 20.26, tecton: 18.95, 
+
+====
+Scourge 19.5
+echidna: 122.15, clones: 80.09, kudzu: 65.31, scapegoat: 43.65, echidnas: 43.65, myrddin: 36.14, alexandria: 30.79, chevalier: 26.78, legend: 24.93, legends: 24.21, 
+
+====
+Scourge 19.6
+eidolon: 63.6, echidna: 58.97, myrddin: 41.3, clone: 35.05, vacuum: 34.67, clones: 32.86, chevalier: 26.78, ice: 23.17, noelle: 22.66, eidolons: 19.99, 
+
+====
+Scourge 19.7
+echidna: 63.18, alexandria: 57.38, faultline: 47.46, labyrinth: 36.14, rex: 22.87, labyrinths: 21.65, sundancer: 20.96, girder: 20.1, eidolon: 19.08, tattletale: 18.36, 
+
+====
+Interlude 19 (Donation Bonus #2)
+july: 207.41, th: 178.8, xxvoidcowboyxx: 80.04, gstringgirl: 74.32, refugee: 41.57, poster: 36.38, zero: 35.47, brocktonite: 34.3, boards: 33.9, posted: 32.86, 
+
+====
+Interlude 19
+emma: 185.07, sophia: 56.2, emmas: 39.57, taylor: 37.94, taylors: 32.39, lao: 30.14, car: 23.05, dumpster: 21.12, shadow: 20.33, flute: 20.1, 
+
+====
+Chrysalis 20.1
+forrest: 54.63, charlotte: 35.35, crepe: 34.3, eric: 23.09, u: 20.61, lunches: 15.7, thugs: 15.49, kids: 15.39, salad: 13.86, fruit: 13.66, 
+
+====
+Chrysalis 20.2
+greg: 56.57, rt: 40.02, adamant: 25.46, charlotte: 24.95, classes: 22.87, sere: 21.83, students: 18.03, enthusiasm: 14.55, class: 14.13, texting: 13.86, 
+
+====
+Chrysalis 20.3
+emma: 93.57, collins: 45.74, principal: 38.72, student: 20.31, sheila: 20.1, hebert: 19.72, howell: 18.47, students: 18.03, emmas: 16.96, office: 13.61, 
+
+====
+Chrysalis 20.4
+cafeteria: 58.18, sere: 54.56, students: 40.07, principal: 31.68, guards: 29.51, auditorium: 22.63, charlotte: 20.79, school: 18.67, lockdown: 18.47, decoys: 17.77, 
+
+====
+Chrysalis 20.5
+defiant: 74.72, dragon: 49.36, students: 40.07, sere: 40.01, adamant: 29.1, fern: 20.1, cafeteria: 19.39, clockblocker: 17.85, precog: 14.42, spear: 14.37, 
+
+====
+Interlude 20 (Donation Bonus #1)
+stan: 131.49, marshall: 80.04, nipper: 62.89, defiant: 42.93, howell: 32.33, students: 32.06, tagg: 30.47, director: 28.76, reporter: 28.75, keene: 25.12, 
+
+====
+Interlude 20
+accord: 109.18, valefor: 88.0, sir: 45.7, butcher: 31.52, othello: 30.32, citrine: 28.37, ambassadors: 27.08, cane: 25.12, skitter: 23.48, eligos: 23.09, 
+
+====
+Imago 21.1
+tagg: 25.39, parian: 19.67, director: 15.23, tattletale: 13.11, welts: 12.99, dovetail: 11.78, slivers: 11.31, atlas: 11.26, prt: 10.76, taggs: 10.56, 
+
+====
+Imago 21.2
+radley: 114.34, groundskeeper: 40.02, headstone: 34.3, atlas: 18.01, rachel: 17.44, vase: 15.07, flashlight: 13.66, radleys: 11.43, tagg: 10.16, notes: 10.15, 
+
+====
+Imago 21.3
+valefor: 102.07, eligos: 96.99, rosary: 87.75, imp: 61.14, regent: 50.05, valefors: 45.21, petals: 36.38, gross: 16.6, halo: 16.16, flakes: 15.08, 
+
+====
+Imago 21.4
+citrine: 81.95, accord: 58.4, folder: 19.91, accords: 18.19, grue: 18.02, portal: 16.8, tower: 15.49, hat: 12.91, construction: 12.02, tent: 10.91, 
+
+====
+Imago 21.5
+flechette: 64.85, militia: 36.3, parian: 26.23, miss: 22.73, arbalest: 15.08, eaves: 13.86, allegations: 12.99, rain: 12.36, tagg: 10.16, bags: 10.14, 
+
+====
+Imago 21.6
+butcher: 167.06, codex: 75.36, spree: 58.05, rachel: 41.03, hemorrhagia: 35.17, duplicates: 34.67, ambassadors: 30.09, bow: 29.44, biter: 29.1, teleported: 27.74, 
+
+====
+Imago 21.7
+stoppers: 45.74, bulletin: 29.09, board: 29.09, televisions: 25.46, index: 24.95, yarn: 22.87, boards: 21.79, cauldron: 21.42, whiteboard: 20.1, cards: 18.8, 
+
+====
+Interlude 21 (Donation Bonus #1)
+jacob: 46.18, notation: 34.3, gesellschaft: 25.12, number: 23.09, jack: 22.18, harbinger: 21.12, cells: 20.84, deviations: 20.54, zero: 20.54, subjects: 19.99, 
+
+====
+Interlude 21
+lily: 145.23, parian: 83.61, accord: 73.63, sabah: 70.33, unicorn: 35.17, atelier: 34.3, pitbull: 34.3, grue: 22.09, tattletale: 20.61, bitch: 20.37, 
+
+====
+Cell 22.1
+tagg: 162.49, militia: 74.1, miss: 41.25, dinah: 33.13, clockblocker: 32.45, director: 32.14, yamada: 29.87, prt: 28.43, triumph: 27.79, mrs: 22.48, 
+
+====
+Cell 22.2
+tagg: 96.48, calle: 90.28, militia: 51.42, mr: 48.19, charges: 44.97, toybox: 33.94, june: 31.52, miss: 29.46, treason: 28.59, director: 25.38, 
+
+====
+Cell 22.3
+tagg: 147.26, calle: 70.65, militia: 52.93, mr: 46.0, dad: 34.52, miss: 29.46, director: 27.07, lawyer: 25.95, elevator: 18.8, vista: 17.67, 
+
+====
+Cell 22.4
+tagg: 86.33, calle: 74.58, alexandria: 71.38, mr: 35.05, dad: 25.25, taggs: 24.64, lawyer: 17.3, militia: 16.64, concessions: 12.93, miss: 11.79, 
+
+====
+Cell 22.5
+defiant: 47.7, dragon: 29.17, elevator: 28.2, keys: 20.53, cartridge: 18.47, tagg: 17.77, restraints: 16.16, bugs: 13.39, defiants: 12.49, stairwell: 12.36, 
+
+====
+Cell 22.6
+militia: 42.35, defiant: 41.34, alexandria: 36.39, calle: 31.4, miss: 26.1, chevalier: 25.11, reporters: 19.05, mr: 17.53, lawyer: 17.3, dragon: 16.83, 
+
+====
+Interlude 22
+charlotte: 170.51, forrest: 109.26, danny: 92.34, kathy: 83.13, ben: 51.45, reporter: 49.29, aidan: 47.64, ethan: 45.21, jessie: 41.57, puppies: 38.98, 
+
+====
+Interlude 22 (Donation Bonus #1)
+daiichi: 177.23, kenta: 137.21, lung: 124.3, ren: 102.91, marquis: 72.09, teacher: 69.28, daiichis: 62.89, amelia: 56.32, bodyguard: 52.8, sentai: 45.74, 
+
+====
+Drone 23.1
+jouster: 143.77, hoyden: 105.98, butterflies: 64.64, adepts: 45.21, thirteenth: 41.57, defiant: 41.34, clockblocker: 40.57, tecton: 37.91, glenn: 37.56, swoop: 37.56, 
+
+====
+Drone 23.2
+prefab: 285.85, rime: 163.89, arbiter: 150.72, bambina: 127.34, kulshedra: 95.45, leister: 91.47, usher: 86.61, starlet: 60.29, vantage: 54.13, butterflies: 51.71, 
+
+====
+Drone 23.3
+glenn: 119.51, butterflies: 29.09, skidmark: 23.9, chambers: 19.91, mail: 19.39, chevalier: 18.41, portfolios: 17.15, rime: 17.07, vegas: 15.76, glenns: 15.7, 
+
+====
+Drone 23.4
+yamada: 69.7, ned: 55.26, mrs: 52.46, fox: 43.18, butterflies: 35.55, reynard: 34.3, kids: 27.69, maggie: 23.09, wards: 21.33, cheesy: 17.15, 
+
+====
+Drone 23.5
+craft: 56.28, defiant: 39.75, behemoth: 30.42, dragon: 28.05, lightning: 22.87, wings: 21.81, propulsion: 20.49, yngbn: 19.05, crafts: 17.32, rosy: 17.15, 
+
+====
+Interlude 23
+cody: 180.97, yngbn: 111.57, accord: 40.62, chevalier: 35.15, behemoth: 34.48, lavender: 22.63, path: 22.53, magma: 21.83, drills: 20.54, codys: 18.19, 
+
+====
+Crushed 24.1
+cuff: 72.84, tecton: 52.65, lightning: 49.91, annex: 45.25, behemoth: 34.48, golem: 32.0, grace: 27.74, sled: 24.65, fires: 21.79, citrine: 18.91, 
+
+====
+Crushed 24.2
+sled: 57.51, tecton: 50.55, sleds: 36.95, behemoth: 36.51, annex: 32.32, wanton: 31.51, behemoths: 27.08, lightning: 22.87, cats: 21.55, shockwave: 21.38, 
+
+====
+Crushed 24.3
+kismet: 120.08, arbiter: 105.5, particulate: 83.13, behemoth: 70.99, phir: 66.73, behemoths: 36.11, lightning: 33.27, s: 31.38, punjabi: 25.12, scanner: 23.55, 
+
+====
+Crushed 24.4
+phir: 157.01, behemoth: 101.41, dispatch: 58.18, s: 57.22, yngbn: 54.43, lightning: 45.75, exalt: 39.12, revel: 37.6, ss: 36.97, citrine: 31.52, 
+
+====
+Crushed 24.5
+behemoth: 50.7, tecton: 37.91, rachel: 26.67, temple: 24.05, lightning: 22.87, grace: 21.34, imp: 20.38, phir: 19.63, eidolon: 19.08, retarded: 15.7, 
+
+====
+Interlude 24
+chevalier: 127.22, behemoth: 81.13, th: 49.02, ushers: 40.02, rime: 37.56, mouse: 37.49, hannah: 36.95, reed: 34.3, blade: 32.31, accord: 30.47, 
+
+====
+Interlude 24 (Donation Bonus #1)
+glenn: 58.05, iblis: 57.17, kirk: 55.26, weaver: 44.81, july: 41.48, node: 40.19, tecton: 40.02, pretender: 37.49, butterflies: 32.32, th: 31.72, 
+
+====
+Scarab 25.1
+armstrong: 64.66, glenn: 61.46, west: 50.08, tecton: 42.12, committee: 30.14, director: 27.07, campanile: 21.65, annex: 19.39, wanton: 18.38, wilkins: 17.32, 
+
+====
+Scarab 25.2
+golem: 44.8, kirk: 30.14, theo: 24.64, simurgh: 20.88, delhi: 17.3, yamada: 16.6, cd: 14.55, tecton: 12.64, mrs: 12.49, disarmed: 11.78, 
+
+====
+Scarab 25.3
+topsy: 256.22, mockshow: 108.62, topsys: 85.76, cuff: 77.54, annex: 67.87, snow: 55.4, revel: 54.04, director: 49.06, roger: 45.21, mayor: 40.82, 
+
+====
+Scarab 25.4
+jo: 74.32, tecton: 71.61, koffi: 68.6, cuff: 49.34, wanton: 42.02, golem: 38.4, studio: 36.95, o: 32.39, khonsu: 29.87, weaver: 28.0, 
+
+====
+Scarab 25.5
+doctor: 67.2, marquis: 55.45, nie: 51.45, ek: 34.3, faultline: 32.48, chevalier: 28.46, nag: 28.16, moord: 26.4, mother: 25.68, birdcage: 25.38, 
+
+====
+Scarab 25.6
+khonsu: 69.7, targetconsequence: 51.45, th: 34.61, khonsus: 32.33, moord: 30.17, tohu: 26.4, kazikli: 22.87, nag: 21.12, tecton: 18.95, notes: 18.61, 
+
+====
+Interlude 25
+eli: 91.47, riley: 77.95, jack: 63.77, bonesaw: 58.98, mommy: 42.24, damsel: 41.57, blasto: 33.94, darn: 27.71, mister: 26.4, frooty: 22.87, 
+
+====
+Sting 26.1
+golem: 44.8, revel: 42.3, cozen: 30.17, rifle: 25.44, traps: 25.27, jack: 24.95, getaway: 23.55, acid: 23.07, tarp: 21.65, corpses: 17.67, 
+
+====
+Sting 26.2
+golem: 108.81, screamer: 98.13, crimson: 82.14, winters: 51.97, winter: 39.97, torpor: 28.59, cherish: 27.74, golems: 21.01, screamers: 18.47, password: 15.76, 
+
+====
+Sting 26.3
+crucible: 89.62, clockblocker: 69.78, rat: 43.89, vista: 40.15, toggle: 36.95, murder: 33.91, mannequin: 32.31, mannequins: 27.4, breeds: 27.32, tyrant: 24.65, 
+
+====
+Interlude 26 (Donation Bonus #1)
+mags: 115.46, saint: 110.9, dobrynja: 60.29, geoff: 47.1, data: 43.67, mischa: 34.3, dragon: 32.54, feeds: 30.5, azazels: 30.17, azazel: 29.44, 
+
+====
+Sting 26.4
+nilbog: 204.75, jack: 113.68, creatures: 65.79, nilbogs: 60.34, ellisburg: 49.02, golem: 46.94, kingdom: 38.79, creations: 33.01, azazels: 26.4, bonesaw: 24.2, 
+
+====
+Sting 26.5
+hatchet: 70.67, cube: 53.11, tecton: 35.8, hags: 35.17, rat: 33.56, jouster: 32.86, mannequin: 29.37, skinslips: 28.59, siberians: 28.4, murder: 28.26, 
+
+====
+Sting 26.6
+defiant: 77.9, charger: 70.33, jack: 48.52, hoyden: 43.18, creatures: 42.3, decoder: 34.3, vats: 32.33, tecton: 31.59, gray: 30.83, golem: 27.74, 
+
+====
+Interlude 26a
+golem: 125.88, harbingers: 74.58, hoyden: 70.65, jack: 61.0, weaver: 57.87, theo: 52.8, harbinger: 38.72, tecton: 37.91, chevalier: 31.81, jacks: 31.09, 
+
+====
+Interlude 26b
+theo: 112.63, golem: 106.68, weaver: 74.68, jack: 62.38, tecton: 61.08, foil: 40.52, hookwolf: 39.02, alley: 26.37, gray: 23.39, siberian: 22.46, 
+
+====
+Interlude 26
+entity: 357.59, shards: 164.29, shard: 150.24, counterpart: 121.26, entitys: 82.43, hosts: 63.06, host: 54.79, cycle: 53.45, species: 52.52, revolutions: 51.45, 
+
+====
+Extinction 27.1
+rachel: 24.62, portal: 21.38, tower: 20.65, tents: 18.19, highways: 17.15, dragonfly: 16.96, foil: 15.76, trains: 15.08, pack: 14.46, rescue: 14.31, 
+
+====
+Extinction 27.2
+doctor: 58.04, saint: 38.82, bonesaw: 28.73, defiant: 25.44, booth: 23.55, faultline: 22.48, contessa: 21.77, weld: 20.3, scion: 19.78, birdcage: 18.61, 
+
+====
+Extinction 27.3
+sophia: 60.53, ledge: 29.4, hebert: 15.33, prison: 15.28, superior: 15.04, kaze: 12.99, imp: 12.87, crowd: 12.55, acidbath: 12.32, lustrum: 11.78, 
+
+====
+Extinction 27.4
+string: 46.32, glaistig: 45.43, uaine: 42.76, theory: 38.91, lab: 37.6, defiant: 36.57, portals: 36.32, chevalier: 33.48, scion: 31.09, administrator: 28.75, 
+
+====
+Extinction 27.5
+weld: 70.14, glaistig: 61.47, uaine: 56.12, sanguine: 51.97, scion: 40.98, platform: 39.34, sveta: 30.17, water: 28.19, pack: 27.3, eidolon: 23.85, 
+
+====
+Interlude 27
+glaistig: 88.19, eidolon: 85.85, david: 85.76, uaine: 85.52, priest: 73.89, scion: 62.17, doctor: 56.51, faerie: 36.11, contessa: 29.93, scions: 27.4, 
+
+====
+Interlude 27b
+worthy: 3.52, opponents: 2.05, needed: 0.26, you: 0.0, 
+
+====
+Cockroaches 28.1
+canary: 69.31, aisha: 59.74, ew: 28.75, greenhorn: 28.59, tattletale: 28.1, rachel: 27.69, humanity: 18.95, canarys: 18.86, disgruntled: 17.15, ignorance: 17.07, 
+
+====
+Cockroaches 28.2
+saint: 121.99, defiant: 84.26, narwhal: 67.72, canary: 52.68, teacher: 47.5, dragon: 30.29, imp: 20.38, mags: 18.47, son: 15.49, eh: 14.55, 
+
+====
+Cockroaches 28.3
+panacea: 37.22, lung: 27.49, dragonfly: 25.44, saint: 24.95, canary: 24.95, stalker: 21.81, bonesaw: 21.17, defiant: 20.67, narwhal: 18.47, shadow: 18.3, 
+
+====
+Cockroaches 28.4
+simurgh: 48.18, pendragon: 46.17, dragonfly: 39.57, yngbn: 35.38, canary: 30.5, defiant: 28.62, stalker: 26.49, imp: 24.67, tattletale: 22.48, shadow: 20.33, 
+
+====
+Cockroaches 28.5
+fins: 39.25, simurgh: 33.73, defiant: 31.8, canary: 30.5, dragonfly: 28.27, imp: 24.67, doctor: 22.91, rain: 21.19, endbringers: 20.77, leviathan: 20.27, 
+
+====
+Cockroaches 28.6
+calle: 86.36, glenn: 85.36, charlotte: 47.83, mr: 46.0, forrest: 34.14, simurgh: 27.3, movie: 18.53, mai: 16.43, kids: 16.41, crass: 14.08, 
+
+====
+Interlude 28
+ingenue: 90.94, chevalier: 66.96, teacher: 49.48, defiant: 44.52, narwhal: 40.01, weld: 33.22, saint: 30.5, exalt: 27.08, deviants: 24.65, legend: 20.26, 
+
+====
+Venom 29.1
+romp: 46.18, tecton: 33.7, knave: 32.33, grace: 32.0, foil: 29.27, portal: 29.02, rachel: 24.62, scion: 24.02, laps: 23.09, cuff: 21.15, 
+
+====
+Venom 29.2
+gavel: 90.51, scion: 89.02, cups: 61.84, swords: 47.8, hammer: 43.09, king: 42.93, beam: 38.27, queen: 36.88, crane: 32.32, simurgh: 27.3, 
+
+====
+Venom 29.3
+spur: 44.17, legend: 38.95, canary: 36.04, leonine: 35.17, nix: 23.55, floret: 23.55, cauldron: 23.21, defiant: 22.26, vegas: 22.06, revel: 21.15, 
+
+====
+Venom 29.4
+cells: 41.68, custodian: 36.38, stalker: 26.49, threes: 26.26, lung: 25.1, imp: 23.6, irregulars: 22.06, shadow: 17.28, doctor: 15.27, golem: 14.93, 
+
+====
+Venom 29.5
+canary: 38.82, custodian: 29.1, lung: 28.69, cuff: 25.85, mantellum: 24.65, corridor: 22.48, knife: 21.89, crowd: 21.52, golem: 21.34, spheres: 21.06, 
+
+====
+Venom 29.6
+satyr: 232.31, leonid: 64.96, floret: 58.88, scion: 33.91, blowout: 30.32, vegas: 28.37, cuff: 28.2, canary: 27.73, stalker: 26.49, deviants: 24.65, 
+
+====
+Venom 29.7
+doctor: 105.39, sveta: 82.96, vials: 64.14, manton: 47.27, vial: 46.17, siberian: 32.83, scion: 32.5, huntress: 30.17, lung: 26.3, tunnel: 23.56, 
+
+====
+Venom 29.8
+sveta: 52.8, scion: 33.91, lung: 27.49, ceiling: 24.03, cuff: 23.5, golem: 23.47, huntress: 22.63, rachel: 20.51, tendrils: 19.72, flesh: 19.7, 
+
+====
+Venom 29.9
+panacea: 40.6, marquis: 30.5, scion: 28.26, bonesaw: 27.22, lung: 21.51, imp: 21.45, golem: 21.34, doormakers: 19.63, scions: 18.26, satyr: 17.6, 
+
+====
+Interlude 29
+entity: 173.03, fortuna: 154.36, partisan: 80.04, godling: 68.6, shards: 51.88, fog: 49.07, contessa: 46.26, doctor: 45.82, warrior: 42.02, arsenal: 38.72, 
+
+====
+Speck 30.1
+marquis: 130.31, canary: 49.91, cave: 38.79, bone: 37.43, panacea: 30.45, sixteen: 20.26, spruce: 19.63, branches: 18.91, lung: 17.93, cinderhands: 17.32, 
+
+====
+Speck 30.2
+scion: 50.87, teleporter: 36.04, acidbath: 32.86, marquis: 30.5, disc: 21.12, glaistig: 18.71, uaine: 18.71, memories: 17.8, teleporters: 17.07, fragmented: 16.43, 
+
+====
+Speck 30.3
+teacher: 65.32, portals: 60.53, palace: 30.14, clairvoyant: 30.09, shn: 27.71, doormakers: 27.48, students: 26.04, doormaker: 25.95, teachers: 24.76, portal: 19.86, 
+
+====
+Speck 30.4
+drones: 72.16, portals: 70.21, portal: 38.18, shn: 36.95, dragon: 32.54, glaistig: 26.73, army: 25.65, scion: 25.43, gauges: 22.87, anchors: 20.54, 
+
+====
+Speck 30.5
+scion: 100.32, portals: 70.21, moord: 37.71, portal: 36.66, nag: 35.2, sifara: 35.17, scions: 34.25, ash: 30.5, clairvoyant: 27.08, capes: 23.24, 
+
+====
+Speck 30.6
+scion: 45.21, faerie: 45.13, clairvoyant: 42.13, warper: 36.95, portal: 25.97, stuffed: 24.98, song: 22.48, portals: 19.37, chute: 18.47, clairvoyants: 18.19, 
+
+====
+Speck 30.7
+strangers: 21.77, forcefield: 15.89, swarm: 15.26, clairvoyant: 15.04, singing: 14.99, analyze: 13.28, shakiness: 11.43, resistance: 11.1, fates: 10.91, wings: 10.91, 
+
+====
+Teneral e.1
+ciara: 120.06, valkyrie: 90.37, therapist: 69.35, yamada: 43.15, riley: 34.65, ms: 28.27, session: 25.46, shadows: 23.21, faerie: 21.06, goblin: 19.63, 
+
+====
+Teneral e.2
+nero: 320.15, samuel: 137.21, lucan: 102.91, juliette: 91.47, imp: 91.17, flor: 85.76, hooligan: 80.04, prisoners: 40.82, neros: 40.02, tokens: 36.95, 
+
+====
+Teneral e.3
+pandora: 171.51, colin: 88.78, dragon: 77.41, melusine: 36.97, terminal: 36.14, encryption: 32.74, pendragon: 30.78, ii: 30.14, systems: 29.87, hephaestus: 28.59, 
+
+====
+Teneral e.4
+ooze: 165.79, cassie: 154.36, biter: 94.58, rachel: 90.26, bastard: 60.08, militia: 34.78, fries: 32.33, doon: 22.87, miss: 21.89, french: 21.06, 
+
+====
+Teneral e.5
+teacher: 150.43, ingenue: 138.23, viking: 96.99, satyr: 45.76, marquis: 44.36, dt: 36.38, tractor: 22.87, lung: 21.51, shutdown: 20.1, officer: 19.67, 
+
+====
+Interlude: End
+annette: 74.58, imp: 47.2, teenager: 45.03, taylor: 32.95, wine: 30.17, foil: 24.76, forrest: 23.9, tattletale: 22.86, cozen: 22.63, rachel: 20.51, 
+
